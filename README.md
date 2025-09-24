@@ -33,14 +33,16 @@ Synthetic, realistic dataset:
 
 ## Screenshots
 ### Overview
-![Overview](IMG/Overview.PNG)
+![Overview](IMG/Overview.png)
 
 ### Content Page
-![Content](IMG/Content.PNG)
+![Content](IMG/Content.png)
 
 ### Acquisition Page
-![Acquisition](IMG/Acquisition.PNG)
+![Acquisition](IMG/Acquisition.png)
 
+### Slicers
+![Slicers](IMG/Slicers.png)
 ---
 
 ## Deliverables
