@@ -1,0 +1,2001 @@
+user_id,plan,country,start_date,cancel_date,acquisition_channel,email_opt_in
+1,Standard,FR,2025-01-03,2025-04-10,Paid Search,1
+2,TrialOnly,FR,2025-04-27,,Organic,1
+3,TrialOnly,CH,2024-10-22,,Organic,1
+4,Basic,BE,2025-02-25,,Referral,1
+5,Standard,FR,2024-12-25,,Paid Search,1
+6,Premium,CH,2025-03-30,,Social,0
+7,Standard,BE,2024-09-13,,Social,1
+8,Basic,FR,2025-02-22,,Social,1
+9,Basic,CH,2025-05-30,,Organic,1
+10,TrialOnly,FR,2025-03-22,,Organic,0
+11,Standard,FR,2024-11-29,,Paid Search,1
+12,Premium,FR,2025-02-24,,Paid Search,1
+13,Premium,FR,2024-09-28,,Social,1
+14,Standard,CH,2025-03-29,,Referral,0
+15,Basic,BE,2025-05-01,,Paid Search,1
+16,Basic,FR,2025-04-04,,Social,1
+17,Premium,CH,2025-06-28,,Organic,1
+18,TrialOnly,CH,2024-11-09,,Referral,1
+19,Basic,BE,2025-02-15,,Referral,1
+20,TrialOnly,FR,2025-08-19,,Paid Search,0
+21,Standard,FR,2025-01-06,,Social,1
+22,Basic,FR,2025-08-20,,Organic,1
+23,TrialOnly,FR,2024-12-31,,Paid Search,1
+24,Basic,BE,2025-08-05,,Paid Search,1
+25,Premium,BE,2025-07-28,,Referral,1
+26,Basic,FR,2025-08-27,,Organic,0
+27,Premium,FR,2024-09-16,2025-01-16,Social,1
+28,Basic,FR,2024-11-24,,Referral,0
+29,Premium,FR,2025-06-26,,Organic,1
+30,Standard,FR,2025-07-12,,Social,0
+31,TrialOnly,CH,2025-04-27,,Paid Search,1
+32,TrialOnly,FR,2024-12-06,,Social,1
+33,Basic,CH,2025-05-15,,Paid Search,1
+34,Basic,FR,2025-03-12,2025-05-12,Paid Search,1
+35,Premium,CH,2025-05-17,,Referral,0
+36,Basic,FR,2025-02-25,,Organic,0
+37,TrialOnly,FR,2024-09-29,,Referral,1
+38,TrialOnly,CH,2025-03-10,,Social,1
+39,Standard,FR,2025-01-27,2025-05-03,Social,0
+40,Basic,BE,2024-11-27,2025-04-04,Organic,1
+41,Basic,FR,2025-07-25,,Organic,1
+42,Standard,FR,2025-08-16,,Social,1
+43,TrialOnly,CH,2025-01-16,,Paid Search,1
+44,TrialOnly,BE,2024-09-17,,Social,1
+45,Standard,CH,2024-12-16,,Organic,0
+46,TrialOnly,FR,2024-09-20,,Organic,1
+47,Standard,CH,2025-04-21,,Paid Search,1
+48,TrialOnly,CH,2025-04-03,,Organic,1
+49,TrialOnly,FR,2024-09-22,,Organic,0
+50,TrialOnly,FR,2024-10-14,,Referral,1
+51,Basic,FR,2025-01-21,2025-06-28,Social,1
+52,Basic,FR,2025-04-15,2025-06-22,Referral,1
+53,TrialOnly,BE,2025-05-25,,Social,1
+54,Basic,CH,2025-07-11,,Paid Search,1
+55,Basic,CH,2024-09-08,2024-11-15,Referral,0
+56,TrialOnly,FR,2024-12-16,,Organic,1
+57,TrialOnly,FR,2024-10-15,,Paid Search,1
+58,Basic,BE,2025-04-06,,Organic,1
+59,Standard,FR,2024-10-28,,Organic,0
+60,Standard,FR,2024-11-14,2025-06-21,Organic,0
+61,TrialOnly,FR,2025-06-28,,Social,1
+62,TrialOnly,BE,2024-09-30,,Organic,1
+63,TrialOnly,CH,2025-05-13,,Paid Search,1
+64,TrialOnly,BE,2024-11-27,,Paid Search,1
+65,Basic,BE,2025-06-20,,Referral,1
+66,TrialOnly,FR,2025-04-12,,Referral,1
+67,TrialOnly,BE,2025-07-30,,Organic,1
+68,Standard,FR,2024-10-20,,Social,1
+69,TrialOnly,FR,2024-12-22,,Referral,1
+70,Basic,FR,2024-11-20,,Social,0
+71,TrialOnly,BE,2025-06-01,,Social,0
+72,Basic,FR,2024-11-25,2024-12-25,Referral,1
+73,Premium,BE,2024-09-04,2024-12-04,Referral,0
+74,Standard,FR,2024-10-20,2025-08-27,Paid Search,1
+75,TrialOnly,FR,2025-03-19,,Social,1
+76,TrialOnly,FR,2025-08-06,,Organic,1
+77,Basic,CH,2025-03-16,2025-07-16,Social,0
+78,Standard,BE,2024-11-15,2025-04-22,Social,1
+79,TrialOnly,BE,2025-08-21,,Organic,1
+80,TrialOnly,FR,2025-08-02,,Referral,1
+81,Standard,FR,2024-12-14,,Paid Search,1
+82,TrialOnly,FR,2025-02-01,,Referral,1
+83,Standard,CH,2025-01-09,2025-04-09,Paid Search,0
+84,Standard,BE,2025-04-11,,Social,1
+85,Premium,CH,2025-05-03,,Referral,1
+86,Premium,FR,2024-09-25,2025-02-02,Organic,1
+87,Standard,BE,2024-10-29,2025-06-29,Paid Search,1
+88,Basic,BE,2025-02-01,2025-06-01,Paid Search,1
+89,Basic,FR,2024-12-05,2025-01-05,Referral,1
+90,Standard,CH,2025-02-04,,Organic,1
+91,Standard,CH,2025-02-21,2025-04-28,Organic,1
+92,Basic,FR,2024-09-05,,Paid Search,1
+93,Basic,FR,2025-07-25,,Paid Search,1
+94,Standard,BE,2025-08-01,,Social,1
+95,Premium,FR,2024-11-11,,Organic,1
+96,Standard,FR,2025-05-28,,Paid Search,1
+97,Basic,FR,2025-02-04,2025-06-11,Paid Search,1
+98,TrialOnly,BE,2025-01-11,,Organic,1
+99,TrialOnly,BE,2024-12-13,,Social,1
+100,Standard,FR,2025-03-15,,Referral,1
+101,Basic,CH,2025-05-31,2025-07-31,Social,1
+102,Premium,FR,2025-05-23,,Organic,1
+103,Standard,BE,2025-02-19,2025-05-26,Referral,1
+104,Standard,FR,2024-11-12,,Social,1
+105,TrialOnly,FR,2025-01-26,,Paid Search,1
+106,TrialOnly,BE,2025-02-19,,Paid Search,1
+107,Standard,CH,2024-11-25,2025-04-25,Paid Search,1
+108,Basic,CH,2025-02-09,2025-03-09,Social,1
+109,Standard,BE,2025-05-07,2025-08-14,Referral,1
+110,Basic,FR,2025-08-14,,Paid Search,0
+111,TrialOnly,FR,2024-09-04,,Organic,1
+112,Basic,BE,2024-12-15,,Paid Search,1
+113,TrialOnly,FR,2025-08-26,,Referral,1
+114,TrialOnly,FR,2024-11-02,,Organic,0
+115,Premium,FR,2025-08-22,,Organic,1
+116,TrialOnly,FR,2025-04-13,,Referral,1
+117,Standard,CH,2025-08-31,,Referral,1
+118,TrialOnly,BE,2025-05-30,,Paid Search,1
+119,TrialOnly,FR,2025-03-21,,Referral,1
+120,Basic,FR,2025-01-23,2025-06-30,Organic,0
+121,TrialOnly,FR,2024-09-12,,Organic,1
+122,Standard,FR,2025-02-11,2025-05-11,Organic,1
+123,Standard,FR,2025-08-12,,Paid Search,1
+124,TrialOnly,FR,2025-06-01,,Social,0
+125,TrialOnly,FR,2025-07-01,,Social,1
+126,Standard,FR,2024-09-04,2025-02-04,Referral,1
+127,Standard,CH,2024-11-17,,Organic,1
+128,TrialOnly,FR,2025-02-06,,Social,1
+129,Basic,FR,2025-06-04,2025-08-11,Paid Search,1
+130,Standard,CH,2025-08-12,,Social,1
+131,Premium,FR,2025-03-03,,Paid Search,1
+132,Basic,BE,2025-04-28,2025-07-05,Paid Search,1
+133,Premium,FR,2024-10-10,,Paid Search,1
+134,Standard,CH,2024-09-30,2025-04-07,Social,1
+135,TrialOnly,CH,2024-12-30,,Referral,1
+136,Basic,CH,2024-10-12,2024-11-12,Organic,1
+137,Basic,CH,2025-05-27,2025-08-03,Paid Search,1
+138,TrialOnly,CH,2025-01-02,,Referral,1
+139,Standard,BE,2024-10-25,2025-01-01,Organic,1
+140,TrialOnly,FR,2025-04-03,,Referral,1
+141,Basic,FR,2025-02-14,,Organic,1
+142,Basic,FR,2025-01-03,,Paid Search,1
+143,TrialOnly,FR,2025-05-29,,Social,1
+144,TrialOnly,BE,2024-10-01,,Referral,1
+145,Premium,FR,2025-08-20,,Social,1
+146,TrialOnly,CH,2025-02-04,,Paid Search,1
+147,Standard,FR,2025-08-06,,Paid Search,1
+148,Basic,FR,2024-10-16,2024-12-23,Organic,1
+149,Premium,FR,2024-11-21,,Organic,1
+150,Basic,FR,2024-12-31,,Social,1
+151,Standard,FR,2025-07-18,,Organic,1
+152,Standard,FR,2025-04-09,,Referral,1
+153,Basic,CH,2025-04-14,2025-06-21,Paid Search,1
+154,Premium,FR,2025-07-14,,Paid Search,1
+155,Basic,FR,2025-08-20,,Organic,1
+156,TrialOnly,FR,2024-11-01,,Referral,1
+157,Basic,CH,2024-10-10,,Organic,1
+158,Standard,FR,2025-07-30,,Referral,0
+159,Standard,CH,2025-01-11,,Organic,1
+160,Standard,FR,2025-05-03,,Referral,1
+161,Basic,FR,2025-07-01,,Social,1
+162,Premium,FR,2025-02-22,,Paid Search,1
+163,Standard,FR,2024-10-19,,Social,1
+164,TrialOnly,FR,2025-01-22,,Social,1
+165,Basic,CH,2025-04-24,,Social,1
+166,TrialOnly,BE,2025-02-05,,Organic,1
+167,Standard,BE,2025-06-11,,Paid Search,1
+168,TrialOnly,CH,2025-01-10,,Paid Search,1
+169,Standard,FR,2025-01-23,,Referral,1
+170,TrialOnly,CH,2024-11-20,,Paid Search,0
+171,Standard,FR,2025-07-25,,Organic,1
+172,TrialOnly,FR,2025-07-29,,Social,1
+173,TrialOnly,BE,2024-09-19,,Organic,1
+174,Basic,FR,2025-01-05,,Social,1
+175,Standard,FR,2025-05-17,2025-06-24,Referral,0
+176,TrialOnly,CH,2025-07-20,,Social,1
+177,Premium,FR,2025-03-14,,Paid Search,0
+178,TrialOnly,FR,2025-04-05,,Referral,1
+179,TrialOnly,FR,2025-02-22,,Social,1
+180,Standard,BE,2025-02-28,,Social,1
+181,TrialOnly,FR,2024-09-20,,Referral,1
+182,TrialOnly,FR,2025-06-21,,Social,1
+183,Basic,FR,2025-04-02,,Referral,1
+184,Basic,FR,2025-06-11,,Social,1
+185,Basic,BE,2024-11-07,,Paid Search,1
+186,TrialOnly,FR,2025-06-25,,Social,1
+187,TrialOnly,BE,2025-05-23,,Organic,1
+188,Standard,BE,2025-07-24,,Organic,1
+189,Basic,FR,2025-02-19,,Referral,1
+190,Premium,FR,2025-02-18,,Organic,1
+191,TrialOnly,FR,2025-01-09,,Organic,1
+192,TrialOnly,FR,2025-02-23,,Paid Search,1
+193,Standard,CH,2024-12-03,,Organic,0
+194,TrialOnly,BE,2025-08-05,,Social,1
+195,Premium,BE,2025-08-01,,Organic,1
+196,Basic,CH,2024-11-09,2025-03-16,Referral,1
+197,Standard,FR,2025-03-11,2025-04-18,Referral,1
+198,TrialOnly,CH,2025-04-27,,Referral,1
+199,TrialOnly,CH,2024-12-03,,Organic,1
+200,Standard,FR,2024-12-29,2025-05-05,Organic,1
+201,Basic,CH,2025-08-04,,Social,0
+202,Premium,CH,2025-05-23,2025-06-30,Organic,1
+203,TrialOnly,BE,2024-10-26,,Referral,1
+204,Standard,FR,2025-01-07,,Paid Search,1
+205,Basic,BE,2024-12-10,,Paid Search,0
+206,TrialOnly,FR,2025-06-03,,Organic,1
+207,Basic,FR,2025-05-17,,Organic,1
+208,TrialOnly,CH,2025-01-18,,Organic,1
+209,TrialOnly,BE,2024-10-18,,Organic,1
+210,Premium,FR,2025-02-22,,Referral,1
+211,Standard,CH,2024-11-08,,Organic,0
+212,Basic,CH,2025-03-27,,Paid Search,1
+213,Basic,FR,2024-12-19,2025-06-26,Paid Search,1
+214,Standard,FR,2025-01-05,,Paid Search,1
+215,Basic,FR,2025-07-28,,Organic,1
+216,Standard,CH,2025-05-01,,Social,0
+217,Standard,FR,2025-03-02,,Social,1
+218,Standard,BE,2024-11-16,2024-12-23,Social,0
+219,Basic,FR,2025-05-03,2025-06-10,Organic,1
+220,Standard,CH,2025-03-13,2025-04-20,Referral,1
+221,TrialOnly,FR,2025-04-09,,Referral,1
+222,TrialOnly,CH,2025-08-22,,Paid Search,1
+223,Basic,FR,2024-12-01,2025-02-08,Organic,1
+224,Basic,CH,2025-04-07,2025-08-07,Referral,0
+225,Basic,CH,2025-05-01,2025-08-08,Referral,1
+226,Standard,FR,2025-08-15,,Paid Search,1
+227,Basic,CH,2025-05-30,2025-07-30,Organic,0
+228,TrialOnly,BE,2024-09-02,,Organic,1
+229,Standard,FR,2025-08-28,,Referral,1
+230,Basic,FR,2024-11-22,2025-07-29,Organic,1
+231,Basic,CH,2025-05-04,2025-06-04,Social,0
+232,Basic,FR,2025-03-04,,Social,0
+233,TrialOnly,FR,2025-01-05,,Social,1
+234,TrialOnly,CH,2025-04-04,,Paid Search,1
+235,Standard,CH,2025-06-04,2025-08-11,Social,1
+236,Basic,BE,2025-08-31,,Organic,1
+237,TrialOnly,FR,2025-04-24,,Referral,0
+238,TrialOnly,FR,2025-04-03,,Referral,0
+239,Premium,FR,2025-01-08,2025-06-08,Paid Search,0
+240,TrialOnly,FR,2025-01-21,,Paid Search,1
+241,Standard,BE,2024-09-20,2025-01-20,Paid Search,1
+242,TrialOnly,CH,2025-01-30,,Paid Search,1
+243,Premium,CH,2025-07-01,,Referral,1
+244,Standard,FR,2025-04-27,,Paid Search,1
+245,Standard,BE,2024-10-30,,Paid Search,0
+246,Standard,CH,2024-11-24,2025-06-01,Referral,0
+247,Standard,BE,2024-10-10,,Organic,1
+248,Standard,FR,2024-12-28,2025-08-04,Paid Search,1
+249,Standard,FR,2025-04-05,,Organic,1
+250,Premium,CH,2024-11-15,,Referral,1
+251,TrialOnly,BE,2025-07-23,,Referral,1
+252,Basic,FR,2024-12-30,2025-03-06,Social,1
+253,Premium,FR,2025-01-12,,Paid Search,0
+254,Standard,BE,2024-10-19,2025-04-19,Paid Search,1
+255,Standard,CH,2024-09-28,2025-06-05,Social,0
+256,TrialOnly,FR,2025-08-26,,Organic,1
+257,Basic,FR,2024-09-17,,Referral,1
+258,Standard,FR,2025-08-21,,Social,1
+259,TrialOnly,BE,2025-06-30,,Paid Search,1
+260,TrialOnly,BE,2025-04-07,,Social,1
+261,Premium,FR,2024-11-07,2025-05-14,Paid Search,0
+262,TrialOnly,BE,2025-01-21,,Social,1
+263,Standard,FR,2025-06-16,,Organic,1
+264,TrialOnly,CH,2025-07-17,,Referral,0
+265,TrialOnly,CH,2025-06-04,,Paid Search,0
+266,TrialOnly,BE,2024-09-22,,Social,1
+267,Standard,FR,2024-12-27,,Paid Search,1
+268,Standard,FR,2025-08-15,,Referral,1
+269,Standard,BE,2025-02-25,,Social,1
+270,Basic,FR,2024-12-24,,Social,1
+271,Premium,CH,2025-05-19,,Paid Search,0
+272,Premium,FR,2024-09-25,2024-12-02,Social,1
+273,TrialOnly,FR,2024-12-12,,Referral,1
+274,TrialOnly,BE,2025-07-18,,Referral,1
+275,Premium,BE,2024-09-26,,Referral,1
+276,TrialOnly,FR,2025-06-10,,Organic,1
+277,TrialOnly,FR,2025-07-17,,Paid Search,1
+278,Basic,BE,2025-05-24,,Paid Search,1
+279,Basic,BE,2025-05-31,,Paid Search,1
+280,Basic,FR,2024-10-26,2025-04-02,Social,1
+281,TrialOnly,BE,2024-09-14,,Organic,1
+282,Basic,CH,2025-01-26,,Paid Search,1
+283,Basic,CH,2025-04-19,,Referral,0
+284,TrialOnly,FR,2025-03-08,,Organic,1
+285,Standard,FR,2025-05-17,2025-08-24,Organic,1
+286,Basic,BE,2025-03-07,2025-04-14,Organic,1
+287,Basic,CH,2025-08-13,,Paid Search,1
+288,Basic,CH,2024-12-08,,Paid Search,1
+289,TrialOnly,FR,2025-04-02,,Paid Search,1
+290,Basic,FR,2025-08-15,,Referral,1
+291,TrialOnly,BE,2024-10-12,,Social,1
+292,Basic,FR,2025-07-05,,Paid Search,1
+293,Basic,FR,2025-07-01,,Organic,1
+294,TrialOnly,FR,2025-08-22,,Paid Search,1
+295,Premium,FR,2024-11-18,,Social,0
+296,Standard,FR,2025-06-25,,Social,1
+297,TrialOnly,CH,2024-11-06,,Paid Search,1
+298,Premium,CH,2024-12-02,2025-07-09,Paid Search,1
+299,Basic,FR,2025-03-30,,Organic,1
+300,Standard,FR,2025-08-29,,Social,1
+301,TrialOnly,BE,2025-04-24,,Social,1
+302,Standard,FR,2025-01-23,,Referral,1
+303,Premium,FR,2025-01-13,,Organic,1
+304,Basic,FR,2025-06-14,,Social,1
+305,Standard,FR,2024-10-25,,Organic,0
+306,TrialOnly,FR,2024-10-30,,Organic,1
+307,TrialOnly,FR,2025-08-02,,Organic,1
+308,TrialOnly,CH,2025-06-22,,Paid Search,1
+309,TrialOnly,BE,2025-02-11,,Referral,0
+310,TrialOnly,BE,2024-09-18,,Organic,1
+311,TrialOnly,FR,2024-09-26,,Referral,1
+312,TrialOnly,CH,2025-01-13,,Social,1
+313,TrialOnly,FR,2025-07-30,,Social,1
+314,Basic,FR,2025-07-02,,Social,1
+315,Basic,FR,2025-08-08,,Organic,1
+316,TrialOnly,FR,2025-07-21,,Social,1
+317,TrialOnly,FR,2025-06-15,,Social,1
+318,Basic,FR,2025-07-15,,Referral,0
+319,Premium,BE,2025-06-09,2025-08-16,Paid Search,1
+320,Standard,CH,2024-12-21,,Organic,1
+321,TrialOnly,BE,2025-06-17,,Organic,1
+322,TrialOnly,FR,2025-05-25,,Organic,1
+323,Premium,FR,2025-01-07,,Paid Search,1
+324,Basic,FR,2025-08-13,,Social,1
+325,Standard,FR,2025-08-27,,Organic,1
+326,Standard,CH,2024-09-20,2025-08-20,Referral,0
+327,Standard,BE,2024-12-05,,Referral,1
+328,Standard,CH,2024-09-16,2024-12-23,Referral,1
+329,Basic,FR,2025-02-16,2025-05-23,Paid Search,0
+330,Standard,CH,2025-01-17,,Paid Search,0
+331,Basic,FR,2024-12-19,2025-03-19,Social,1
+332,Standard,CH,2024-10-16,,Social,1
+333,Basic,FR,2025-08-04,,Referral,1
+334,Basic,CH,2025-02-04,,Social,1
+335,Standard,CH,2024-11-21,,Organic,1
+336,Premium,FR,2024-09-02,,Social,1
+337,TrialOnly,BE,2025-01-11,,Social,1
+338,TrialOnly,FR,2025-04-12,,Paid Search,1
+339,Basic,CH,2024-11-05,,Social,1
+340,TrialOnly,FR,2025-01-13,,Social,1
+341,Basic,FR,2024-12-15,,Organic,1
+342,Premium,BE,2024-10-01,,Organic,1
+343,Standard,FR,2024-12-26,2025-03-26,Organic,1
+344,Standard,BE,2025-04-14,,Referral,1
+345,Basic,FR,2025-07-22,,Social,1
+346,Basic,FR,2025-07-22,,Paid Search,1
+347,Basic,FR,2025-04-24,,Referral,1
+348,Basic,FR,2025-08-15,,Paid Search,1
+349,Basic,FR,2025-01-15,2025-02-22,Social,1
+350,TrialOnly,FR,2024-09-22,,Organic,0
+351,Standard,FR,2024-11-09,,Social,1
+352,Basic,BE,2025-07-08,,Social,1
+353,Basic,BE,2024-09-30,2025-06-07,Referral,1
+354,Standard,FR,2024-09-24,2024-12-01,Social,1
+355,TrialOnly,FR,2025-01-20,,Organic,0
+356,Basic,FR,2025-01-15,,Referral,1
+357,TrialOnly,CH,2024-09-27,,Organic,1
+358,Standard,FR,2025-08-11,,Referral,1
+359,Basic,FR,2025-05-23,,Organic,0
+360,Basic,FR,2024-10-16,,Organic,1
+361,TrialOnly,FR,2024-12-06,,Paid Search,1
+362,Standard,FR,2024-12-12,2025-07-19,Social,1
+363,TrialOnly,FR,2024-11-23,,Paid Search,1
+364,Premium,CH,2024-12-29,,Social,1
+365,TrialOnly,BE,2024-12-14,,Organic,1
+366,TrialOnly,BE,2025-07-20,,Social,1
+367,Standard,FR,2025-05-20,,Paid Search,0
+368,TrialOnly,FR,2025-02-28,,Organic,1
+369,TrialOnly,FR,2025-07-05,,Paid Search,1
+370,TrialOnly,FR,2025-07-10,,Paid Search,1
+371,TrialOnly,BE,2025-01-22,,Referral,1
+372,Standard,FR,2024-11-04,2025-04-04,Organic,1
+373,Premium,BE,2025-03-27,,Paid Search,1
+374,TrialOnly,FR,2025-05-16,,Paid Search,1
+375,Standard,FR,2025-04-19,,Referral,0
+376,Standard,FR,2025-08-13,,Social,1
+377,Basic,CH,2025-03-19,,Organic,0
+378,TrialOnly,FR,2025-08-09,,Organic,1
+379,Standard,FR,2025-03-17,2025-08-17,Paid Search,0
+380,TrialOnly,FR,2025-07-31,,Social,1
+381,TrialOnly,FR,2025-01-26,,Referral,1
+382,Standard,FR,2025-06-22,,Paid Search,1
+383,Basic,CH,2025-08-21,,Paid Search,1
+384,TrialOnly,FR,2025-03-05,,Social,1
+385,TrialOnly,FR,2024-10-27,,Referral,1
+386,TrialOnly,CH,2025-02-10,,Organic,1
+387,Premium,FR,2025-01-16,,Organic,1
+388,Premium,FR,2025-01-21,2025-06-28,Referral,1
+389,TrialOnly,FR,2025-07-12,,Referral,1
+390,Standard,FR,2024-12-12,,Referral,0
+391,Basic,CH,2025-04-08,2025-06-08,Organic,0
+392,TrialOnly,FR,2025-06-09,,Referral,1
+393,TrialOnly,FR,2025-07-14,,Referral,1
+394,Basic,FR,2025-01-28,,Referral,0
+395,TrialOnly,FR,2025-06-08,,Organic,1
+396,Basic,BE,2025-05-20,,Social,1
+397,Basic,BE,2024-11-16,,Paid Search,1
+398,Basic,FR,2025-08-25,,Social,1
+399,Standard,CH,2025-01-17,,Social,1
+400,Basic,FR,2025-07-10,,Referral,1
+401,Basic,FR,2024-09-11,2024-11-18,Social,1
+402,TrialOnly,CH,2025-03-22,,Social,1
+403,TrialOnly,FR,2024-12-18,,Social,1
+404,TrialOnly,FR,2025-02-17,,Social,1
+405,Basic,FR,2025-06-08,,Paid Search,1
+406,Standard,BE,2025-05-02,,Referral,1
+407,Standard,FR,2025-04-27,,Paid Search,1
+408,TrialOnly,FR,2025-08-07,,Social,1
+409,TrialOnly,FR,2025-01-04,,Referral,1
+410,Standard,CH,2024-10-26,2025-02-02,Referral,0
+411,Standard,BE,2024-12-21,2025-03-28,Referral,1
+412,Premium,FR,2025-06-01,2025-07-01,Paid Search,1
+413,TrialOnly,CH,2025-08-14,,Social,1
+414,Premium,FR,2024-09-10,2025-06-10,Social,1
+415,TrialOnly,BE,2025-06-12,,Paid Search,0
+416,Basic,CH,2025-02-26,2025-07-26,Social,1
+417,Standard,BE,2024-12-02,,Social,1
+418,Basic,FR,2025-04-03,,Social,0
+419,Basic,FR,2025-06-26,,Social,1
+420,TrialOnly,FR,2025-06-22,,Organic,1
+421,Basic,BE,2025-03-03,,Paid Search,0
+422,Basic,FR,2024-09-24,2024-12-01,Referral,1
+423,Basic,FR,2024-09-09,,Referral,1
+424,Standard,BE,2025-03-23,,Paid Search,0
+425,Premium,FR,2024-12-23,,Social,1
+426,Standard,BE,2025-02-28,2025-07-28,Paid Search,1
+427,TrialOnly,FR,2024-10-27,,Paid Search,1
+428,Basic,CH,2025-01-16,,Organic,1
+429,TrialOnly,BE,2025-02-18,,Organic,1
+430,Premium,CH,2024-11-14,,Organic,0
+431,TrialOnly,FR,2024-09-23,,Organic,1
+432,Standard,FR,2024-11-21,,Referral,1
+433,Standard,FR,2024-10-20,,Organic,0
+434,Standard,FR,2024-11-16,,Organic,1
+435,Standard,FR,2024-10-11,2025-06-18,Referral,1
+436,Premium,CH,2025-01-28,,Organic,1
+437,Standard,FR,2024-09-24,2025-04-24,Organic,1
+438,Standard,CH,2024-09-30,2024-10-30,Paid Search,1
+439,TrialOnly,BE,2024-10-08,,Paid Search,1
+440,Basic,FR,2025-05-02,2025-08-02,Paid Search,1
+441,Basic,BE,2024-11-22,,Social,0
+442,Standard,BE,2024-11-19,,Referral,1
+443,Basic,CH,2025-01-02,,Social,1
+444,TrialOnly,FR,2024-11-27,,Organic,0
+445,Basic,BE,2025-04-07,,Paid Search,0
+446,TrialOnly,FR,2024-12-12,,Referral,1
+447,TrialOnly,FR,2025-08-22,,Referral,1
+448,TrialOnly,FR,2025-07-28,,Referral,1
+449,Standard,FR,2025-01-09,2025-02-16,Referral,1
+450,Standard,FR,2025-02-20,,Social,1
+451,Basic,FR,2025-04-12,,Referral,0
+452,Basic,FR,2025-06-09,,Social,0
+453,TrialOnly,BE,2024-11-11,,Social,1
+454,Basic,FR,2024-11-02,2025-06-02,Organic,0
+455,TrialOnly,FR,2024-09-17,,Social,1
+456,Standard,CH,2025-01-11,,Social,1
+457,Standard,FR,2024-10-23,,Organic,1
+458,TrialOnly,FR,2024-09-25,,Referral,1
+459,Premium,FR,2025-07-30,,Paid Search,1
+460,Premium,CH,2024-09-10,2025-06-10,Referral,1
+461,Premium,FR,2025-03-27,,Social,1
+462,TrialOnly,CH,2024-11-08,,Social,0
+463,TrialOnly,FR,2025-05-07,,Paid Search,1
+464,TrialOnly,FR,2025-02-16,,Social,0
+465,Standard,FR,2024-11-13,,Referral,1
+466,Standard,FR,2025-07-13,,Paid Search,0
+467,Basic,FR,2024-10-02,2025-02-09,Referral,1
+468,Premium,CH,2024-09-05,2025-07-05,Social,1
+469,Premium,FR,2024-09-05,,Referral,1
+470,Basic,CH,2024-12-28,,Referral,1
+471,Premium,BE,2025-05-18,,Organic,1
+472,Standard,FR,2025-03-29,,Paid Search,1
+473,Premium,BE,2024-09-10,2025-01-10,Social,1
+474,TrialOnly,CH,2025-03-11,,Social,1
+475,Standard,CH,2025-06-25,,Paid Search,0
+476,Standard,FR,2025-08-28,,Social,1
+477,Premium,CH,2024-09-29,2025-08-06,Referral,1
+478,TrialOnly,FR,2025-02-12,,Social,1
+479,TrialOnly,FR,2025-08-15,,Social,0
+480,Standard,FR,2024-12-05,2025-02-05,Organic,1
+481,Standard,FR,2025-05-04,,Referral,1
+482,Standard,FR,2024-12-02,2025-04-02,Social,1
+483,TrialOnly,CH,2025-01-13,,Paid Search,1
+484,Basic,CH,2024-11-23,2025-07-23,Organic,1
+485,TrialOnly,FR,2025-08-03,,Social,1
+486,Standard,FR,2025-05-31,,Organic,1
+487,Standard,FR,2024-09-07,2025-07-14,Social,1
+488,TrialOnly,FR,2025-07-19,,Social,1
+489,TrialOnly,BE,2025-06-03,,Referral,0
+490,Basic,FR,2025-04-04,,Social,1
+491,Standard,FR,2025-07-21,2025-08-28,Social,0
+492,Basic,FR,2025-02-05,,Organic,1
+493,Standard,FR,2025-02-17,2025-03-24,Referral,1
+494,TrialOnly,FR,2025-05-25,,Social,1
+495,Basic,FR,2024-11-15,2025-02-22,Social,1
+496,TrialOnly,FR,2025-05-09,,Paid Search,1
+497,TrialOnly,BE,2025-05-19,,Organic,1
+498,TrialOnly,FR,2025-02-22,,Referral,1
+499,Standard,CH,2025-04-26,,Paid Search,1
+500,Standard,FR,2025-07-13,,Organic,1
+501,Standard,FR,2025-06-13,,Paid Search,1
+502,Standard,FR,2025-08-25,,Referral,1
+503,TrialOnly,FR,2025-05-31,,Organic,0
+504,TrialOnly,FR,2025-07-14,,Organic,1
+505,TrialOnly,FR,2025-05-03,,Organic,1
+506,Basic,FR,2025-01-03,2025-08-03,Organic,1
+507,TrialOnly,CH,2024-10-15,,Organic,1
+508,TrialOnly,BE,2025-06-09,,Referral,1
+509,Basic,CH,2025-07-22,,Referral,1
+510,TrialOnly,BE,2025-03-02,,Organic,1
+511,Standard,FR,2025-05-28,,Organic,1
+512,Standard,CH,2024-10-23,2025-05-30,Paid Search,1
+513,Basic,FR,2025-06-02,,Organic,0
+514,Basic,FR,2024-10-03,,Organic,1
+515,Basic,FR,2024-10-14,,Social,1
+516,Basic,FR,2024-11-14,,Referral,1
+517,TrialOnly,BE,2025-05-09,,Paid Search,1
+518,TrialOnly,FR,2024-10-10,,Referral,0
+519,TrialOnly,FR,2024-09-20,,Paid Search,1
+520,Basic,FR,2024-12-24,,Referral,1
+521,Standard,FR,2024-10-03,,Organic,1
+522,Basic,BE,2024-11-01,,Referral,1
+523,TrialOnly,FR,2025-02-02,,Referral,1
+524,Standard,FR,2024-11-19,2024-12-19,Organic,0
+525,Standard,FR,2024-10-17,2025-01-17,Organic,0
+526,TrialOnly,CH,2024-10-22,,Social,1
+527,Basic,FR,2025-08-17,,Referral,1
+528,TrialOnly,FR,2024-09-21,,Organic,1
+529,TrialOnly,FR,2025-02-22,,Social,1
+530,Standard,FR,2025-07-10,,Social,1
+531,TrialOnly,FR,2025-05-25,,Social,1
+532,Standard,FR,2025-01-11,2025-02-11,Paid Search,1
+533,Standard,FR,2025-05-27,,Organic,1
+534,Basic,FR,2024-09-23,,Organic,1
+535,Premium,CH,2024-11-07,2025-02-14,Paid Search,1
+536,TrialOnly,BE,2025-07-31,,Organic,1
+537,Premium,BE,2025-02-17,,Paid Search,1
+538,Standard,FR,2025-08-18,,Organic,1
+539,Standard,CH,2025-03-29,2025-06-29,Organic,1
+540,Basic,CH,2025-06-01,,Paid Search,1
+541,TrialOnly,FR,2025-05-28,,Organic,0
+542,TrialOnly,FR,2025-01-31,,Paid Search,1
+543,TrialOnly,BE,2025-04-21,,Paid Search,0
+544,TrialOnly,FR,2025-08-04,,Social,1
+545,TrialOnly,BE,2025-06-15,,Organic,1
+546,TrialOnly,FR,2024-10-17,,Organic,1
+547,TrialOnly,BE,2025-08-12,,Paid Search,1
+548,TrialOnly,FR,2025-05-22,,Social,0
+549,Standard,FR,2025-01-24,2025-07-31,Paid Search,1
+550,Standard,FR,2024-12-13,,Referral,1
+551,TrialOnly,CH,2024-11-05,,Social,0
+552,Premium,BE,2025-04-29,,Social,0
+553,TrialOnly,FR,2025-02-07,,Referral,1
+554,TrialOnly,FR,2025-04-29,,Social,1
+555,Basic,BE,2024-09-15,2024-12-15,Social,1
+556,Basic,FR,2024-09-14,2025-06-21,Referral,1
+557,Premium,FR,2025-08-26,,Social,1
+558,TrialOnly,CH,2024-12-17,,Referral,1
+559,TrialOnly,BE,2024-09-11,,Referral,1
+560,Basic,FR,2024-09-28,2025-04-28,Referral,1
+561,TrialOnly,FR,2024-12-23,,Social,1
+562,Basic,CH,2025-02-12,,Referral,1
+563,Premium,FR,2025-01-18,,Referral,1
+564,Standard,CH,2025-08-08,,Paid Search,1
+565,TrialOnly,FR,2025-03-26,,Social,1
+566,Standard,CH,2025-06-28,,Referral,0
+567,Basic,CH,2025-02-05,2025-05-05,Referral,1
+568,Standard,FR,2024-09-08,2024-10-15,Organic,1
+569,Basic,FR,2025-03-08,2025-07-15,Organic,0
+570,Standard,FR,2024-11-21,2025-07-21,Social,1
+571,TrialOnly,FR,2025-08-29,,Paid Search,1
+572,Basic,FR,2024-09-17,2025-02-24,Referral,1
+573,Standard,FR,2025-06-22,,Organic,1
+574,TrialOnly,BE,2025-01-28,,Paid Search,1
+575,Premium,CH,2025-05-03,2025-08-03,Paid Search,1
+576,Standard,FR,2024-12-02,2025-05-09,Paid Search,1
+577,TrialOnly,BE,2024-09-07,,Paid Search,0
+578,Basic,FR,2024-10-29,,Referral,1
+579,Standard,CH,2025-05-08,2025-08-15,Paid Search,1
+580,Basic,FR,2025-05-20,,Social,1
+581,Basic,FR,2025-04-27,2025-06-04,Referral,1
+582,TrialOnly,CH,2024-10-13,,Paid Search,1
+583,Standard,BE,2024-09-08,2025-05-08,Organic,1
+584,Basic,BE,2025-05-07,,Organic,1
+585,TrialOnly,FR,2025-05-28,,Referral,1
+586,TrialOnly,FR,2025-06-26,,Organic,1
+587,Basic,FR,2024-12-26,2025-03-26,Referral,1
+588,TrialOnly,BE,2024-09-13,,Social,1
+589,Premium,CH,2025-07-24,,Organic,1
+590,Standard,FR,2025-05-03,,Paid Search,1
+591,Basic,FR,2025-06-20,,Paid Search,0
+592,TrialOnly,CH,2025-03-18,,Social,1
+593,Standard,FR,2025-02-21,,Paid Search,1
+594,Basic,FR,2025-05-09,,Organic,0
+595,Basic,FR,2024-11-12,,Organic,0
+596,TrialOnly,CH,2025-07-02,,Paid Search,1
+597,Basic,FR,2025-03-12,,Referral,1
+598,Basic,FR,2025-08-18,,Social,0
+599,Basic,CH,2025-04-04,,Organic,1
+600,Basic,FR,2024-10-11,2025-07-11,Social,0
+601,Basic,FR,2024-10-09,2024-11-09,Organic,1
+602,Basic,BE,2025-07-07,,Social,1
+603,Standard,CH,2024-10-21,,Organic,1
+604,TrialOnly,FR,2024-10-05,,Paid Search,1
+605,TrialOnly,FR,2025-01-08,,Organic,1
+606,Basic,FR,2024-11-15,,Paid Search,1
+607,Premium,FR,2024-12-24,,Referral,1
+608,TrialOnly,FR,2024-12-31,,Referral,0
+609,TrialOnly,FR,2024-10-03,,Organic,0
+610,TrialOnly,CH,2025-01-09,,Social,1
+611,Basic,FR,2025-08-29,,Referral,0
+612,Basic,CH,2025-01-16,,Referral,1
+613,Premium,FR,2025-01-22,,Paid Search,0
+614,TrialOnly,FR,2024-12-12,,Referral,1
+615,Standard,FR,2025-05-23,2025-08-30,Referral,0
+616,Basic,CH,2025-08-19,,Referral,1
+617,TrialOnly,CH,2024-10-15,,Social,1
+618,TrialOnly,FR,2025-08-22,,Paid Search,0
+619,Basic,CH,2024-10-22,,Referral,1
+620,Basic,FR,2024-10-15,2025-05-22,Social,1
+621,TrialOnly,BE,2025-08-17,,Paid Search,1
+622,Premium,BE,2025-04-03,2025-06-03,Social,1
+623,TrialOnly,BE,2025-01-14,,Social,1
+624,TrialOnly,FR,2024-10-20,,Paid Search,1
+625,Standard,FR,2025-06-16,,Social,1
+626,TrialOnly,FR,2024-10-03,,Social,1
+627,Basic,FR,2025-07-20,,Social,1
+628,Premium,CH,2025-03-27,2025-06-03,Social,1
+629,Standard,FR,2025-04-02,,Referral,1
+630,Premium,FR,2025-05-31,2025-07-31,Social,0
+631,TrialOnly,FR,2025-07-28,,Organic,1
+632,TrialOnly,FR,2025-03-22,,Social,1
+633,Standard,BE,2024-09-02,,Referral,1
+634,Standard,FR,2025-04-26,2025-08-26,Paid Search,1
+635,TrialOnly,FR,2025-01-22,,Organic,1
+636,Premium,BE,2025-04-12,,Social,1
+637,Basic,FR,2025-01-11,,Referral,1
+638,Basic,CH,2024-09-18,,Paid Search,1
+639,Basic,CH,2025-08-04,,Organic,0
+640,TrialOnly,FR,2025-03-30,,Referral,1
+641,TrialOnly,CH,2024-10-13,,Paid Search,1
+642,Standard,FR,2024-10-13,,Referral,0
+643,Standard,FR,2025-05-16,,Paid Search,1
+644,Standard,CH,2025-02-02,2025-06-09,Paid Search,1
+645,Standard,BE,2025-06-26,,Social,1
+646,Premium,FR,2025-04-07,2025-05-14,Paid Search,1
+647,TrialOnly,FR,2025-03-12,,Referral,1
+648,TrialOnly,FR,2025-02-01,,Referral,1
+649,TrialOnly,BE,2025-05-26,,Organic,1
+650,Basic,FR,2025-07-18,,Organic,1
+651,Premium,CH,2025-02-08,,Organic,1
+652,Standard,FR,2025-04-03,,Social,1
+653,Standard,FR,2025-02-07,,Paid Search,1
+654,Standard,FR,2025-08-01,,Social,1
+655,Basic,BE,2024-12-14,2025-04-21,Referral,1
+656,Premium,CH,2025-03-02,,Paid Search,0
+657,TrialOnly,CH,2025-06-26,,Social,1
+658,Basic,BE,2025-08-12,,Social,1
+659,Basic,FR,2025-04-24,,Social,1
+660,TrialOnly,BE,2024-12-12,,Social,0
+661,TrialOnly,FR,2025-06-29,,Organic,1
+662,TrialOnly,BE,2025-05-29,,Social,1
+663,Standard,CH,2024-12-13,,Paid Search,1
+664,Basic,CH,2025-07-26,,Organic,1
+665,Premium,FR,2025-06-23,,Organic,1
+666,Basic,FR,2025-02-21,2025-06-21,Referral,1
+667,TrialOnly,FR,2025-08-02,,Referral,1
+668,TrialOnly,FR,2025-08-21,,Organic,1
+669,Standard,FR,2025-06-27,,Organic,1
+670,Standard,BE,2025-05-26,,Organic,1
+671,Standard,FR,2025-04-24,,Referral,1
+672,TrialOnly,FR,2025-08-16,,Referral,1
+673,Standard,FR,2024-10-20,,Social,1
+674,TrialOnly,BE,2025-03-29,,Referral,1
+675,Standard,FR,2025-02-18,,Referral,1
+676,Basic,FR,2025-06-22,2025-07-29,Referral,0
+677,Basic,FR,2025-01-10,2025-08-17,Organic,1
+678,Standard,FR,2025-04-30,,Referral,0
+679,Basic,FR,2025-07-26,,Organic,1
+680,Standard,BE,2025-04-27,,Paid Search,1
+681,Premium,BE,2025-02-15,,Organic,1
+682,Basic,BE,2024-10-31,2025-03-07,Referral,1
+683,Basic,CH,2024-09-01,2025-08-08,Referral,1
+684,Standard,FR,2024-09-25,2024-12-02,Organic,1
+685,Standard,BE,2024-09-27,,Referral,1
+686,TrialOnly,BE,2024-11-07,,Paid Search,1
+687,TrialOnly,FR,2025-06-05,,Organic,1
+688,Premium,CH,2025-03-17,,Referral,0
+689,TrialOnly,CH,2024-11-28,,Paid Search,1
+690,TrialOnly,FR,2025-03-24,,Social,1
+691,TrialOnly,CH,2024-11-16,,Social,1
+692,Basic,FR,2025-04-15,2025-07-22,Social,1
+693,Basic,CH,2025-06-14,,Referral,1
+694,TrialOnly,FR,2025-05-12,,Social,1
+695,Basic,FR,2025-05-24,,Referral,1
+696,Basic,FR,2025-03-27,,Social,1
+697,Standard,FR,2025-07-09,,Referral,0
+698,TrialOnly,FR,2025-03-17,,Paid Search,1
+699,TrialOnly,FR,2024-11-27,,Referral,1
+700,TrialOnly,FR,2025-08-20,,Paid Search,0
+701,Basic,FR,2024-11-26,,Social,1
+702,Basic,CH,2025-04-30,,Organic,1
+703,Basic,FR,2024-11-04,,Organic,1
+704,Standard,FR,2025-02-05,,Referral,1
+705,Basic,FR,2024-11-11,2024-12-18,Organic,1
+706,Basic,FR,2025-02-02,,Referral,1
+707,Basic,CH,2025-03-05,2025-04-12,Social,1
+708,Basic,FR,2025-06-21,,Referral,1
+709,Basic,BE,2025-07-20,,Referral,1
+710,Premium,FR,2024-12-10,,Organic,0
+711,Basic,FR,2024-09-11,,Referral,1
+712,TrialOnly,CH,2025-07-25,,Social,1
+713,TrialOnly,FR,2024-10-07,,Organic,1
+714,Standard,FR,2025-06-19,,Social,1
+715,TrialOnly,FR,2025-02-17,,Referral,1
+716,Basic,FR,2025-02-09,,Social,1
+717,Standard,FR,2025-08-21,,Referral,1
+718,Standard,FR,2025-07-19,,Organic,1
+719,Standard,FR,2025-07-23,,Paid Search,1
+720,Standard,FR,2025-01-12,,Paid Search,1
+721,Basic,FR,2024-10-07,2025-04-14,Organic,1
+722,TrialOnly,CH,2025-05-25,,Paid Search,1
+723,Premium,FR,2025-01-21,2025-05-21,Referral,1
+724,Basic,FR,2025-05-19,,Social,1
+725,Standard,FR,2025-02-17,2025-04-24,Organic,1
+726,Standard,FR,2025-05-29,,Referral,1
+727,Basic,FR,2025-02-17,2025-04-17,Social,1
+728,TrialOnly,CH,2025-05-08,,Referral,1
+729,Standard,CH,2025-07-14,,Referral,1
+730,Basic,CH,2025-04-19,,Paid Search,1
+731,Standard,FR,2024-12-09,,Referral,1
+732,TrialOnly,BE,2025-06-20,,Paid Search,1
+733,TrialOnly,BE,2024-09-30,,Paid Search,1
+734,TrialOnly,FR,2025-06-17,,Organic,1
+735,Standard,CH,2024-09-24,,Paid Search,1
+736,TrialOnly,FR,2024-10-31,,Referral,1
+737,TrialOnly,BE,2024-10-27,,Paid Search,0
+738,Standard,FR,2025-08-23,,Paid Search,1
+739,Standard,CH,2025-02-09,,Referral,0
+740,TrialOnly,FR,2025-01-20,,Referral,1
+741,Standard,CH,2025-08-30,,Referral,1
+742,Standard,CH,2025-08-09,,Paid Search,0
+743,Standard,FR,2025-03-10,,Organic,1
+744,TrialOnly,FR,2024-10-28,,Paid Search,1
+745,TrialOnly,FR,2025-06-28,,Referral,1
+746,TrialOnly,FR,2025-06-29,,Social,1
+747,Standard,BE,2025-02-24,,Organic,0
+748,Basic,FR,2025-04-23,,Referral,1
+749,Basic,FR,2024-10-30,,Paid Search,1
+750,Standard,BE,2024-12-10,2025-07-17,Paid Search,0
+751,Basic,BE,2024-11-23,2025-07-30,Social,1
+752,Standard,FR,2025-06-03,2025-07-10,Social,1
+753,TrialOnly,FR,2024-09-25,,Organic,1
+754,TrialOnly,FR,2025-08-02,,Organic,1
+755,Basic,FR,2025-03-29,,Referral,1
+756,Standard,FR,2024-11-28,,Organic,1
+757,Standard,CH,2025-05-23,,Social,1
+758,Basic,FR,2025-04-19,,Referral,1
+759,TrialOnly,FR,2024-12-28,,Referral,1
+760,TrialOnly,FR,2024-10-19,,Referral,1
+761,Basic,FR,2024-11-11,2025-03-18,Paid Search,1
+762,Basic,FR,2024-09-20,2024-12-20,Referral,1
+763,Basic,FR,2025-01-25,,Organic,1
+764,TrialOnly,CH,2025-02-14,,Social,1
+765,TrialOnly,FR,2025-08-03,,Social,1
+766,TrialOnly,CH,2024-11-10,,Organic,1
+767,Standard,FR,2024-09-28,,Referral,0
+768,TrialOnly,CH,2024-11-15,,Paid Search,1
+769,Premium,FR,2025-05-06,2025-07-13,Paid Search,1
+770,TrialOnly,BE,2025-04-13,,Referral,1
+771,Premium,CH,2024-10-20,,Social,1
+772,Standard,FR,2024-12-15,,Paid Search,0
+773,Basic,FR,2025-05-30,,Social,0
+774,Premium,CH,2024-12-23,,Paid Search,1
+775,TrialOnly,FR,2025-04-28,,Social,1
+776,Standard,BE,2024-12-16,2025-01-23,Paid Search,1
+777,TrialOnly,BE,2025-04-28,,Organic,1
+778,Standard,FR,2024-11-06,,Social,1
+779,TrialOnly,CH,2025-06-22,,Organic,1
+780,TrialOnly,BE,2025-03-23,,Paid Search,1
+781,TrialOnly,FR,2024-09-12,,Social,1
+782,TrialOnly,CH,2025-06-20,,Social,1
+783,Basic,FR,2025-02-22,,Social,1
+784,Standard,FR,2024-10-23,,Paid Search,1
+785,TrialOnly,FR,2025-07-24,,Paid Search,1
+786,Basic,FR,2024-12-26,2025-05-02,Organic,1
+787,Basic,BE,2025-08-08,,Referral,1
+788,Standard,BE,2025-01-26,2025-04-02,Paid Search,1
+789,Standard,CH,2025-07-17,2025-08-24,Organic,1
+790,TrialOnly,FR,2025-05-17,,Paid Search,1
+791,Basic,BE,2025-07-01,2025-08-08,Referral,1
+792,Premium,BE,2025-03-30,2025-07-30,Social,1
+793,Basic,CH,2024-10-04,2025-07-04,Referral,0
+794,Premium,BE,2024-11-29,2025-01-29,Social,1
+795,Standard,FR,2024-11-25,2025-07-02,Paid Search,0
+796,TrialOnly,CH,2024-12-09,,Organic,1
+797,Standard,CH,2025-03-11,,Organic,1
+798,Basic,FR,2025-08-30,,Organic,1
+799,TrialOnly,FR,2024-11-01,,Social,1
+800,Basic,FR,2024-09-13,,Paid Search,1
+801,TrialOnly,FR,2025-06-07,,Social,1
+802,Basic,CH,2025-04-10,,Organic,1
+803,Standard,FR,2024-12-10,2025-03-17,Referral,1
+804,TrialOnly,FR,2024-09-08,,Paid Search,0
+805,Basic,FR,2024-09-13,2024-11-20,Organic,0
+806,Premium,FR,2024-09-17,,Paid Search,1
+807,Premium,FR,2024-12-29,,Social,0
+808,TrialOnly,CH,2024-12-06,,Paid Search,1
+809,Premium,BE,2025-04-16,2025-08-23,Organic,1
+810,Basic,BE,2025-08-04,,Organic,1
+811,Standard,FR,2025-04-18,,Referral,1
+812,Standard,BE,2025-08-23,,Social,1
+813,TrialOnly,BE,2024-10-02,,Social,1
+814,Standard,FR,2024-11-25,,Referral,1
+815,TrialOnly,FR,2025-02-21,,Referral,1
+816,TrialOnly,FR,2025-04-06,,Referral,1
+817,Basic,BE,2025-01-31,,Paid Search,1
+818,Premium,FR,2025-04-01,2025-05-08,Social,0
+819,Premium,FR,2025-08-06,,Referral,1
+820,Basic,FR,2025-03-21,2025-07-28,Social,1
+821,TrialOnly,BE,2025-03-23,,Referral,1
+822,Premium,BE,2025-05-28,,Referral,1
+823,TrialOnly,FR,2025-04-15,,Referral,1
+824,TrialOnly,BE,2025-02-05,,Organic,0
+825,Premium,FR,2025-07-29,,Organic,1
+826,Standard,FR,2025-07-12,,Referral,1
+827,TrialOnly,CH,2025-04-07,,Organic,1
+828,TrialOnly,FR,2024-11-18,,Referral,1
+829,TrialOnly,FR,2025-04-04,,Organic,1
+830,Standard,FR,2025-06-28,,Referral,1
+831,Standard,BE,2025-03-18,,Paid Search,1
+832,Basic,FR,2025-08-14,,Paid Search,1
+833,Basic,FR,2024-10-01,,Organic,1
+834,Premium,FR,2025-04-17,,Social,1
+835,TrialOnly,BE,2024-09-15,,Social,1
+836,Basic,FR,2024-12-17,2025-03-17,Referral,1
+837,Premium,CH,2025-05-30,,Paid Search,1
+838,TrialOnly,FR,2025-07-02,,Social,1
+839,Basic,FR,2024-10-24,,Social,1
+840,Standard,BE,2024-10-03,,Social,1
+841,TrialOnly,CH,2025-05-01,,Social,1
+842,Standard,FR,2025-01-13,2025-03-13,Paid Search,1
+843,Basic,FR,2025-01-23,2025-03-30,Social,1
+844,Basic,FR,2024-09-14,,Social,1
+845,Standard,FR,2025-06-08,,Paid Search,0
+846,Premium,CH,2024-11-10,2025-02-17,Paid Search,1
+847,Basic,FR,2025-02-09,2025-05-16,Referral,1
+848,Premium,FR,2025-01-28,,Paid Search,0
+849,Premium,BE,2025-01-12,,Referral,1
+850,TrialOnly,FR,2024-12-21,,Referral,1
+851,TrialOnly,FR,2024-11-14,,Social,0
+852,TrialOnly,FR,2025-07-20,,Social,1
+853,TrialOnly,FR,2024-10-19,,Social,0
+854,TrialOnly,BE,2024-09-17,,Social,1
+855,TrialOnly,FR,2024-12-16,,Paid Search,1
+856,TrialOnly,CH,2025-06-13,,Referral,1
+857,Basic,FR,2024-09-21,2025-01-28,Organic,1
+858,TrialOnly,FR,2024-10-20,,Social,0
+859,TrialOnly,CH,2025-04-30,,Organic,1
+860,Basic,CH,2024-11-16,2025-02-23,Social,1
+861,TrialOnly,FR,2024-09-02,,Referral,1
+862,TrialOnly,FR,2025-02-26,,Referral,0
+863,Basic,FR,2025-05-15,2025-07-15,Referral,1
+864,TrialOnly,BE,2025-01-10,,Paid Search,1
+865,Basic,FR,2025-04-16,2025-06-16,Referral,0
+866,Standard,FR,2024-11-01,2025-08-08,Organic,1
+867,TrialOnly,FR,2025-05-27,,Referral,1
+868,Standard,FR,2025-03-13,,Social,0
+869,Premium,FR,2024-11-28,,Social,1
+870,TrialOnly,CH,2025-01-16,,Organic,1
+871,Basic,FR,2024-09-04,2025-06-11,Referral,1
+872,Basic,CH,2024-09-24,2024-11-01,Organic,1
+873,TrialOnly,BE,2025-07-09,,Social,0
+874,Standard,BE,2025-05-01,,Referral,1
+875,TrialOnly,FR,2025-04-29,,Organic,1
+876,Standard,CH,2024-10-29,,Paid Search,1
+877,Basic,BE,2024-12-11,,Paid Search,1
+878,TrialOnly,FR,2025-05-12,,Social,0
+879,Standard,CH,2025-06-12,,Social,0
+880,Standard,CH,2025-04-20,,Social,1
+881,Basic,FR,2024-12-11,,Social,1
+882,Basic,FR,2025-03-27,,Referral,0
+883,Basic,FR,2024-09-21,,Paid Search,1
+884,Basic,BE,2025-06-24,,Paid Search,1
+885,Premium,CH,2025-08-13,,Referral,1
+886,Standard,FR,2024-12-28,,Organic,1
+887,TrialOnly,FR,2025-06-29,,Referral,1
+888,TrialOnly,FR,2024-10-06,,Referral,1
+889,Basic,FR,2025-08-04,,Referral,1
+890,TrialOnly,FR,2025-07-15,,Organic,1
+891,Basic,CH,2025-03-26,,Organic,1
+892,Basic,BE,2025-06-18,2025-07-18,Social,1
+893,Standard,FR,2025-02-26,,Paid Search,1
+894,Standard,FR,2025-07-13,,Paid Search,1
+895,Standard,FR,2025-04-13,,Organic,1
+896,Basic,FR,2025-06-09,,Social,1
+897,Basic,FR,2025-07-28,,Paid Search,1
+898,Standard,FR,2024-10-12,,Social,1
+899,TrialOnly,FR,2025-08-27,,Organic,1
+900,Basic,BE,2025-07-20,,Organic,1
+901,TrialOnly,BE,2025-02-28,,Social,1
+902,TrialOnly,FR,2025-02-07,,Social,1
+903,TrialOnly,BE,2025-06-21,,Referral,1
+904,Basic,CH,2025-02-28,2025-07-07,Referral,1
+905,TrialOnly,CH,2025-04-24,,Social,1
+906,Basic,FR,2025-07-24,,Paid Search,1
+907,Standard,FR,2024-12-31,,Organic,1
+908,Standard,FR,2025-01-12,2025-05-12,Organic,1
+909,TrialOnly,FR,2024-10-03,,Referral,1
+910,Standard,CH,2025-05-06,,Referral,0
+911,Basic,FR,2025-01-04,2025-02-04,Social,1
+912,Standard,FR,2025-08-16,,Referral,0
+913,Standard,FR,2025-05-01,,Referral,1
+914,Standard,BE,2025-01-11,2025-06-18,Organic,0
+915,Premium,CH,2024-10-17,,Social,1
+916,Basic,FR,2025-01-15,,Paid Search,1
+917,Basic,CH,2024-12-28,2025-03-04,Referral,1
+918,TrialOnly,CH,2025-06-02,,Social,1
+919,TrialOnly,FR,2024-12-24,,Referral,1
+920,Standard,BE,2024-09-09,2025-04-09,Paid Search,1
+921,TrialOnly,CH,2025-01-30,,Organic,1
+922,TrialOnly,BE,2025-03-24,,Organic,0
+923,Standard,FR,2025-05-25,,Paid Search,1
+924,TrialOnly,FR,2025-01-04,,Referral,1
+925,TrialOnly,CH,2024-11-30,,Organic,1
+926,Standard,FR,2025-08-17,,Social,1
+927,TrialOnly,CH,2025-01-20,,Social,1
+928,TrialOnly,BE,2025-07-11,,Social,0
+929,Basic,FR,2024-12-26,2025-02-26,Social,1
+930,Standard,CH,2025-05-01,,Social,1
+931,Basic,BE,2024-11-09,2025-01-16,Referral,1
+932,Basic,FR,2025-01-09,,Referral,1
+933,TrialOnly,FR,2025-02-11,,Organic,1
+934,Standard,BE,2025-08-05,,Social,1
+935,TrialOnly,BE,2024-09-27,,Paid Search,1
+936,TrialOnly,FR,2024-10-17,,Paid Search,1
+937,Basic,FR,2025-08-16,,Organic,0
+938,TrialOnly,FR,2025-01-07,,Organic,1
+939,Standard,BE,2025-08-25,,Paid Search,0
+940,Standard,BE,2024-12-18,,Paid Search,1
+941,Basic,FR,2024-11-07,,Organic,1
+942,Basic,CH,2025-05-19,,Referral,1
+943,Basic,BE,2024-09-18,,Referral,1
+944,TrialOnly,FR,2025-02-15,,Paid Search,1
+945,Basic,FR,2024-12-09,2025-01-09,Organic,1
+946,TrialOnly,BE,2025-06-26,,Organic,1
+947,TrialOnly,FR,2025-01-14,,Organic,0
+948,Standard,FR,2024-10-13,,Social,1
+949,Standard,FR,2024-11-01,2024-12-01,Organic,1
+950,Basic,BE,2025-07-13,,Referral,1
+951,TrialOnly,FR,2025-04-03,,Referral,1
+952,TrialOnly,BE,2025-06-20,,Social,1
+953,Standard,FR,2025-02-07,2025-07-07,Referral,1
+954,Standard,FR,2025-05-19,,Organic,1
+955,TrialOnly,CH,2025-01-03,,Paid Search,1
+956,TrialOnly,CH,2024-09-13,,Organic,1
+957,TrialOnly,CH,2024-12-25,,Paid Search,0
+958,Standard,FR,2025-08-19,,Organic,1
+959,Premium,FR,2025-05-29,,Social,1
+960,TrialOnly,BE,2024-09-16,,Paid Search,1
+961,TrialOnly,FR,2025-06-09,,Referral,1
+962,TrialOnly,FR,2025-07-27,,Social,1
+963,Standard,CH,2025-08-10,,Referral,1
+964,Basic,FR,2025-01-16,2025-03-23,Organic,1
+965,TrialOnly,CH,2025-03-25,,Paid Search,1
+966,Standard,FR,2024-10-11,,Referral,1
+967,Standard,FR,2024-12-29,,Organic,0
+968,TrialOnly,FR,2025-03-07,,Paid Search,1
+969,Premium,FR,2025-06-06,,Social,1
+970,Standard,FR,2024-09-18,,Referral,0
+971,Basic,FR,2024-11-03,2025-08-10,Paid Search,0
+972,Basic,FR,2025-08-03,,Organic,1
+973,Basic,BE,2025-01-06,,Paid Search,1
+974,Basic,FR,2025-08-16,,Paid Search,0
+975,TrialOnly,FR,2025-01-21,,Paid Search,1
+976,Standard,BE,2025-06-11,,Organic,1
+977,Basic,CH,2025-01-03,2025-04-10,Organic,1
+978,TrialOnly,CH,2025-08-07,,Organic,1
+979,TrialOnly,BE,2025-04-15,,Social,1
+980,TrialOnly,CH,2024-12-24,,Paid Search,1
+981,TrialOnly,FR,2025-03-24,,Social,1
+982,TrialOnly,BE,2025-03-12,,Paid Search,1
+983,TrialOnly,FR,2025-07-23,,Referral,1
+984,Standard,BE,2024-09-15,2025-05-22,Social,1
+985,Basic,FR,2025-03-16,2025-07-23,Referral,1
+986,Basic,FR,2025-05-30,,Referral,1
+987,TrialOnly,FR,2025-07-13,,Paid Search,1
+988,TrialOnly,BE,2025-06-18,,Organic,1
+989,Basic,CH,2025-04-04,,Referral,1
+990,Premium,FR,2025-06-19,,Social,1
+991,Basic,FR,2025-04-29,,Social,1
+992,Premium,FR,2024-12-02,,Referral,1
+993,Standard,FR,2025-06-30,,Organic,1
+994,Basic,FR,2025-07-21,,Referral,1
+995,Basic,FR,2025-03-12,,Referral,0
+996,Basic,FR,2025-08-21,,Referral,1
+997,Standard,FR,2025-04-16,,Organic,1
+998,TrialOnly,FR,2025-07-12,,Referral,1
+999,Basic,FR,2024-10-23,2025-03-30,Referral,1
+1000,Standard,FR,2024-12-11,,Social,1
+1001,TrialOnly,FR,2024-11-24,,Paid Search,1
+1002,Basic,CH,2025-06-19,2025-07-19,Referral,1
+1003,Premium,FR,2024-10-04,2025-04-04,Organic,1
+1004,Standard,FR,2025-04-06,,Organic,1
+1005,TrialOnly,FR,2025-01-11,,Social,1
+1006,Standard,FR,2024-12-21,2025-01-28,Organic,0
+1007,Basic,FR,2024-09-02,,Organic,1
+1008,TrialOnly,FR,2025-03-16,,Organic,1
+1009,Premium,CH,2025-03-01,,Organic,1
+1010,TrialOnly,FR,2025-01-02,,Organic,1
+1011,Standard,FR,2025-01-13,2025-04-20,Organic,1
+1012,Standard,BE,2024-12-09,,Organic,1
+1013,Basic,BE,2025-05-07,,Organic,1
+1014,Premium,FR,2025-07-21,,Referral,1
+1015,Standard,FR,2025-05-28,,Paid Search,1
+1016,TrialOnly,FR,2025-01-28,,Social,1
+1017,TrialOnly,FR,2024-10-05,,Referral,1
+1018,Standard,CH,2025-07-13,,Organic,1
+1019,TrialOnly,FR,2025-07-20,,Referral,0
+1020,TrialOnly,BE,2024-12-01,,Organic,1
+1021,Standard,BE,2025-07-05,,Referral,1
+1022,Standard,CH,2025-07-18,,Referral,1
+1023,Standard,CH,2025-04-21,,Organic,1
+1024,TrialOnly,CH,2024-11-21,,Paid Search,1
+1025,TrialOnly,CH,2025-01-15,,Paid Search,1
+1026,Standard,BE,2025-02-22,,Social,1
+1027,TrialOnly,FR,2024-12-03,,Organic,1
+1028,Basic,FR,2025-01-15,,Referral,1
+1029,Basic,CH,2025-03-20,,Referral,0
+1030,Premium,FR,2024-12-02,,Referral,1
+1031,Standard,FR,2025-04-29,,Referral,1
+1032,TrialOnly,FR,2025-07-09,,Social,1
+1033,Basic,FR,2024-12-05,,Referral,1
+1034,TrialOnly,CH,2024-12-11,,Referral,1
+1035,TrialOnly,FR,2025-06-22,,Social,1
+1036,Basic,FR,2025-06-26,2025-08-03,Paid Search,1
+1037,Basic,FR,2025-04-04,,Paid Search,1
+1038,Premium,CH,2024-11-07,,Organic,1
+1039,Standard,FR,2025-06-28,,Organic,0
+1040,Standard,CH,2025-02-01,,Organic,0
+1041,Premium,CH,2024-11-25,2025-03-25,Paid Search,1
+1042,Standard,CH,2024-09-19,2025-06-19,Organic,1
+1043,TrialOnly,CH,2025-08-04,,Referral,0
+1044,TrialOnly,FR,2024-12-27,,Organic,1
+1045,Standard,FR,2025-06-13,,Paid Search,0
+1046,TrialOnly,CH,2024-11-13,,Paid Search,0
+1047,Basic,FR,2025-08-04,,Social,1
+1048,Standard,FR,2024-11-18,2025-06-25,Referral,1
+1049,Basic,FR,2025-04-14,,Paid Search,1
+1050,Standard,BE,2024-09-15,2024-10-22,Paid Search,0
+1051,TrialOnly,CH,2025-08-01,,Paid Search,0
+1052,Basic,BE,2025-06-27,,Social,1
+1053,Standard,FR,2025-03-08,,Organic,1
+1054,Premium,FR,2024-10-14,,Referral,1
+1055,TrialOnly,BE,2025-02-18,,Referral,1
+1056,Standard,CH,2024-09-24,,Social,1
+1057,Standard,CH,2025-06-29,,Referral,1
+1058,Standard,FR,2025-01-19,2025-07-19,Social,1
+1059,Standard,FR,2024-10-14,2025-08-21,Paid Search,0
+1060,Basic,FR,2025-01-15,,Social,0
+1061,TrialOnly,FR,2025-08-27,,Social,1
+1062,TrialOnly,FR,2025-04-02,,Social,1
+1063,TrialOnly,FR,2024-12-10,,Referral,1
+1064,TrialOnly,FR,2025-02-05,,Paid Search,1
+1065,Standard,FR,2024-11-03,,Referral,0
+1066,Standard,FR,2024-12-26,,Organic,1
+1067,Standard,FR,2025-05-29,,Paid Search,1
+1068,TrialOnly,BE,2025-01-04,,Paid Search,1
+1069,Basic,BE,2024-10-01,2025-01-01,Organic,1
+1070,Premium,BE,2025-06-11,,Paid Search,1
+1071,Premium,FR,2024-12-15,2025-04-22,Paid Search,1
+1072,Standard,FR,2025-05-15,,Referral,0
+1073,Standard,CH,2025-04-13,,Paid Search,1
+1074,Premium,BE,2024-11-24,,Organic,1
+1075,Premium,FR,2024-09-01,,Organic,1
+1076,Basic,BE,2025-05-08,,Paid Search,1
+1077,Basic,FR,2025-07-20,,Paid Search,1
+1078,TrialOnly,BE,2024-10-26,,Organic,1
+1079,Basic,FR,2024-12-07,2025-05-14,Social,1
+1080,Standard,FR,2025-02-01,,Social,1
+1081,TrialOnly,BE,2025-01-13,,Paid Search,0
+1082,TrialOnly,FR,2025-05-24,,Organic,1
+1083,TrialOnly,CH,2024-09-12,,Paid Search,0
+1084,Standard,FR,2025-05-18,,Referral,1
+1085,Basic,CH,2025-04-14,2025-08-14,Social,1
+1086,Standard,FR,2025-07-20,,Paid Search,1
+1087,Standard,FR,2025-04-24,,Organic,1
+1088,Premium,FR,2025-01-23,2025-03-30,Social,1
+1089,Standard,FR,2025-01-25,,Paid Search,1
+1090,Basic,FR,2024-11-17,2025-06-24,Social,1
+1091,Basic,FR,2025-03-23,2025-04-23,Social,1
+1092,TrialOnly,BE,2025-02-12,,Social,1
+1093,TrialOnly,FR,2024-11-07,,Paid Search,1
+1094,TrialOnly,FR,2025-04-29,,Organic,1
+1095,TrialOnly,FR,2025-07-21,,Paid Search,1
+1096,Basic,FR,2025-04-02,,Social,1
+1097,Basic,BE,2024-09-23,,Paid Search,1
+1098,TrialOnly,FR,2025-03-01,,Organic,1
+1099,Standard,FR,2025-08-09,,Referral,1
+1100,Basic,FR,2025-05-14,,Referral,1
+1101,TrialOnly,FR,2025-06-04,,Referral,0
+1102,Standard,FR,2025-08-24,,Paid Search,1
+1103,Standard,CH,2024-11-28,2025-07-05,Referral,0
+1104,TrialOnly,FR,2025-03-23,,Referral,1
+1105,Standard,FR,2024-09-01,2024-11-01,Organic,1
+1106,Standard,FR,2025-05-02,,Social,0
+1107,Standard,FR,2024-12-27,2025-02-27,Paid Search,1
+1108,Standard,FR,2025-04-15,,Referral,1
+1109,Standard,CH,2025-01-12,,Organic,1
+1110,TrialOnly,FR,2025-04-29,,Social,0
+1111,Standard,CH,2025-02-15,,Organic,1
+1112,TrialOnly,FR,2024-09-12,,Organic,1
+1113,Basic,FR,2025-01-20,,Social,0
+1114,TrialOnly,FR,2025-01-15,,Paid Search,1
+1115,TrialOnly,CH,2025-03-12,,Social,0
+1116,Standard,FR,2024-09-20,2024-12-27,Referral,1
+1117,Premium,CH,2024-09-24,,Social,1
+1118,Standard,BE,2025-02-15,,Paid Search,1
+1119,Basic,CH,2024-11-30,,Paid Search,1
+1120,TrialOnly,CH,2024-10-01,,Social,1
+1121,Basic,CH,2025-07-01,2025-08-08,Paid Search,1
+1122,TrialOnly,CH,2025-04-11,,Organic,1
+1123,TrialOnly,FR,2024-10-31,,Organic,1
+1124,Standard,FR,2024-11-17,,Paid Search,1
+1125,TrialOnly,CH,2025-04-06,,Organic,1
+1126,Premium,BE,2025-07-27,,Referral,1
+1127,TrialOnly,BE,2025-02-15,,Social,1
+1128,Standard,FR,2025-04-01,,Referral,1
+1129,Standard,FR,2025-07-06,,Social,0
+1130,Standard,FR,2025-06-07,2025-07-14,Paid Search,1
+1131,Premium,FR,2025-08-03,,Organic,1
+1132,TrialOnly,FR,2025-02-20,,Paid Search,1
+1133,TrialOnly,FR,2025-05-30,,Paid Search,1
+1134,TrialOnly,FR,2025-04-21,,Social,1
+1135,TrialOnly,FR,2025-04-27,,Referral,1
+1136,TrialOnly,FR,2024-12-04,,Social,1
+1137,Basic,FR,2024-09-04,,Referral,1
+1138,TrialOnly,FR,2025-01-09,,Paid Search,1
+1139,Basic,BE,2024-10-09,,Organic,1
+1140,Standard,FR,2025-06-12,2025-08-19,Paid Search,0
+1141,TrialOnly,FR,2024-09-17,,Organic,1
+1142,TrialOnly,BE,2025-01-25,,Referral,1
+1143,Standard,FR,2025-08-10,,Social,0
+1144,Premium,FR,2025-07-28,,Paid Search,1
+1145,TrialOnly,FR,2025-05-27,,Paid Search,1
+1146,Basic,CH,2025-05-21,,Social,0
+1147,Premium,BE,2025-07-20,,Organic,1
+1148,TrialOnly,FR,2025-05-16,,Organic,1
+1149,Basic,CH,2025-08-21,,Organic,1
+1150,Premium,CH,2025-07-30,,Paid Search,1
+1151,TrialOnly,FR,2025-08-08,,Social,0
+1152,TrialOnly,BE,2025-05-08,,Organic,1
+1153,Basic,CH,2024-09-20,2025-07-27,Referral,1
+1154,Standard,BE,2024-10-26,2025-04-26,Organic,1
+1155,TrialOnly,FR,2025-05-21,,Organic,1
+1156,Basic,CH,2025-06-02,,Referral,1
+1157,TrialOnly,BE,2024-12-26,,Social,1
+1158,Basic,FR,2025-05-23,,Paid Search,0
+1159,TrialOnly,FR,2025-07-06,,Organic,0
+1160,Standard,CH,2024-11-09,2025-04-09,Referral,0
+1161,Basic,FR,2025-04-27,,Organic,1
+1162,TrialOnly,BE,2025-06-06,,Paid Search,0
+1163,Basic,FR,2025-07-05,,Referral,0
+1164,Standard,FR,2025-07-05,,Organic,1
+1165,Basic,FR,2024-09-23,2025-07-23,Paid Search,0
+1166,TrialOnly,FR,2025-03-09,,Social,1
+1167,TrialOnly,CH,2024-12-05,,Social,1
+1168,Basic,BE,2025-02-04,,Social,1
+1169,Basic,FR,2025-07-04,,Organic,1
+1170,Standard,CH,2024-09-14,2025-01-14,Social,1
+1171,TrialOnly,FR,2024-12-12,,Organic,1
+1172,Premium,BE,2024-11-10,,Organic,1
+1173,Basic,FR,2025-02-07,,Organic,1
+1174,TrialOnly,CH,2025-01-29,,Organic,1
+1175,Basic,FR,2025-08-24,,Social,1
+1176,Basic,FR,2024-12-30,2025-01-30,Organic,1
+1177,Standard,FR,2025-06-14,,Organic,1
+1178,Basic,FR,2025-02-22,,Organic,1
+1179,Premium,FR,2024-09-26,2024-11-26,Referral,1
+1180,Standard,CH,2025-08-12,,Paid Search,1
+1181,TrialOnly,FR,2024-10-01,,Organic,0
+1182,TrialOnly,FR,2025-08-10,,Referral,1
+1183,Premium,FR,2025-03-17,,Organic,1
+1184,TrialOnly,FR,2024-10-08,,Paid Search,1
+1185,Standard,CH,2024-11-08,,Referral,1
+1186,Basic,BE,2024-12-07,2025-02-14,Social,1
+1187,Basic,FR,2025-08-06,,Paid Search,1
+1188,Basic,FR,2025-08-07,,Paid Search,1
+1189,TrialOnly,BE,2025-08-19,,Paid Search,1
+1190,Standard,FR,2025-02-11,2025-08-18,Organic,1
+1191,Standard,FR,2024-10-14,,Referral,1
+1192,Standard,CH,2024-09-29,2025-06-29,Organic,1
+1193,TrialOnly,FR,2025-07-28,,Referral,1
+1194,Premium,BE,2025-07-30,,Referral,0
+1195,Basic,FR,2025-01-03,,Social,1
+1196,Basic,FR,2024-09-25,2025-02-02,Social,0
+1197,Basic,CH,2024-11-06,,Social,0
+1198,TrialOnly,FR,2024-10-31,,Referral,1
+1199,TrialOnly,BE,2025-02-24,,Referral,1
+1200,Basic,FR,2024-09-09,2025-06-09,Social,1
+1201,Standard,FR,2025-01-10,,Organic,1
+1202,Standard,FR,2025-01-05,,Referral,1
+1203,Basic,CH,2025-01-26,2025-08-26,Social,1
+1204,TrialOnly,FR,2025-07-18,,Social,1
+1205,TrialOnly,CH,2024-11-18,,Social,1
+1206,TrialOnly,BE,2024-10-15,,Social,1
+1207,TrialOnly,CH,2024-12-31,,Referral,1
+1208,Standard,CH,2024-09-22,,Referral,1
+1209,Basic,BE,2025-05-18,2025-08-25,Social,1
+1210,TrialOnly,FR,2024-10-08,,Referral,1
+1211,TrialOnly,BE,2025-06-01,,Paid Search,1
+1212,Basic,BE,2025-07-29,,Social,1
+1213,TrialOnly,BE,2025-08-03,,Organic,0
+1214,Basic,BE,2025-07-21,,Social,0
+1215,Standard,CH,2025-07-18,,Social,0
+1216,TrialOnly,CH,2025-08-21,,Paid Search,0
+1217,TrialOnly,BE,2024-11-12,,Referral,1
+1218,TrialOnly,FR,2025-05-03,,Paid Search,1
+1219,TrialOnly,BE,2024-11-16,,Referral,1
+1220,Basic,FR,2025-05-24,,Organic,1
+1221,TrialOnly,FR,2025-04-03,,Social,1
+1222,TrialOnly,BE,2025-06-28,,Organic,1
+1223,TrialOnly,CH,2024-12-06,,Organic,1
+1224,Standard,BE,2025-06-22,,Referral,1
+1225,Standard,BE,2025-07-05,,Social,1
+1226,Standard,FR,2025-08-18,,Paid Search,0
+1227,Basic,BE,2025-04-22,,Referral,1
+1228,Basic,FR,2025-05-02,,Organic,1
+1229,Basic,FR,2025-03-16,2025-04-23,Social,1
+1230,TrialOnly,FR,2025-05-29,,Referral,1
+1231,Basic,FR,2024-09-04,,Organic,0
+1232,TrialOnly,FR,2025-08-16,,Referral,0
+1233,Basic,FR,2024-11-15,2024-12-22,Social,1
+1234,TrialOnly,FR,2025-04-08,,Referral,1
+1235,TrialOnly,FR,2025-06-01,,Paid Search,1
+1236,Standard,FR,2025-04-24,,Organic,1
+1237,Standard,BE,2024-10-19,2025-04-26,Social,1
+1238,Premium,FR,2024-09-08,,Referral,1
+1239,TrialOnly,FR,2024-10-04,,Organic,1
+1240,Standard,FR,2024-12-26,,Referral,0
+1241,TrialOnly,BE,2024-11-27,,Organic,1
+1242,TrialOnly,FR,2024-09-10,,Referral,1
+1243,TrialOnly,BE,2025-02-05,,Referral,1
+1244,Premium,FR,2024-09-18,2024-11-25,Referral,0
+1245,Basic,CH,2025-02-04,2025-05-04,Organic,0
+1246,Premium,BE,2025-07-30,,Referral,0
+1247,TrialOnly,FR,2024-09-01,,Organic,1
+1248,Basic,CH,2025-04-05,,Organic,1
+1249,TrialOnly,FR,2025-01-18,,Organic,1
+1250,TrialOnly,CH,2025-06-05,,Organic,1
+1251,Basic,CH,2025-03-29,,Social,1
+1252,Basic,FR,2025-01-14,2025-05-21,Referral,0
+1253,Premium,BE,2024-12-18,,Paid Search,1
+1254,Basic,BE,2024-10-01,2025-01-08,Paid Search,1
+1255,Basic,FR,2024-11-01,,Social,1
+1256,Standard,FR,2024-11-12,2025-03-12,Organic,1
+1257,Standard,FR,2024-10-08,,Referral,1
+1258,Standard,CH,2024-11-08,2024-12-15,Organic,1
+1259,Premium,BE,2025-04-13,2025-07-20,Social,0
+1260,Basic,FR,2025-06-18,,Social,1
+1261,Basic,CH,2024-12-21,,Referral,0
+1262,TrialOnly,BE,2025-07-13,,Social,0
+1263,TrialOnly,FR,2025-04-28,,Paid Search,1
+1264,Basic,BE,2024-12-10,2025-03-17,Organic,1
+1265,TrialOnly,CH,2025-07-29,,Organic,1
+1266,Basic,FR,2024-11-20,,Referral,1
+1267,Premium,FR,2025-04-15,,Paid Search,1
+1268,Basic,BE,2025-02-21,2025-06-21,Organic,1
+1269,Basic,FR,2025-05-06,,Referral,1
+1270,Basic,CH,2025-04-21,,Referral,1
+1271,Basic,BE,2025-05-06,,Social,1
+1272,Standard,BE,2025-07-08,,Social,1
+1273,Standard,CH,2025-01-28,,Organic,1
+1274,Standard,FR,2025-03-01,,Social,1
+1275,Standard,FR,2024-10-21,,Social,1
+1276,TrialOnly,FR,2024-09-30,,Referral,1
+1277,Standard,FR,2024-10-31,,Social,1
+1278,Standard,FR,2024-12-25,,Referral,1
+1279,Standard,CH,2025-01-27,2025-06-03,Referral,1
+1280,Standard,FR,2024-09-08,2025-02-08,Social,1
+1281,Basic,BE,2025-03-03,,Social,0
+1282,Premium,FR,2025-08-29,,Social,1
+1283,Premium,BE,2025-04-22,,Referral,1
+1284,TrialOnly,FR,2025-08-25,,Organic,1
+1285,Basic,FR,2025-06-30,2025-08-07,Paid Search,1
+1286,Premium,CH,2024-12-15,,Paid Search,1
+1287,Standard,CH,2025-06-08,,Paid Search,1
+1288,TrialOnly,FR,2024-09-07,,Referral,1
+1289,Standard,FR,2025-01-19,,Social,1
+1290,Standard,BE,2024-11-14,,Referral,1
+1291,Standard,FR,2025-07-21,,Referral,1
+1292,TrialOnly,BE,2025-05-20,,Referral,1
+1293,TrialOnly,FR,2024-12-29,,Referral,1
+1294,Standard,BE,2024-11-25,2025-08-02,Referral,1
+1295,Standard,BE,2025-04-26,,Social,1
+1296,TrialOnly,FR,2025-01-05,,Organic,0
+1297,Standard,FR,2025-05-22,,Organic,1
+1298,TrialOnly,CH,2025-08-08,,Social,1
+1299,TrialOnly,FR,2024-12-06,,Referral,1
+1300,Basic,FR,2024-12-31,,Referral,1
+1301,Standard,CH,2025-06-29,,Referral,1
+1302,TrialOnly,BE,2024-10-28,,Social,1
+1303,TrialOnly,FR,2024-10-03,,Paid Search,1
+1304,TrialOnly,FR,2025-02-17,,Paid Search,1
+1305,TrialOnly,FR,2025-08-14,,Paid Search,1
+1306,Premium,CH,2025-01-16,,Organic,0
+1307,Basic,BE,2025-05-24,,Social,1
+1308,Standard,BE,2024-12-31,2025-05-31,Social,1
+1309,Standard,FR,2025-01-16,2025-04-23,Organic,1
+1310,TrialOnly,FR,2024-11-22,,Organic,0
+1311,Basic,CH,2024-12-15,2025-04-22,Paid Search,1
+1312,Basic,FR,2025-02-20,,Social,0
+1313,Basic,CH,2025-07-13,,Organic,0
+1314,TrialOnly,BE,2025-06-27,,Organic,0
+1315,Basic,FR,2025-05-13,,Referral,1
+1316,Basic,FR,2024-09-27,2025-05-04,Paid Search,0
+1317,Standard,FR,2024-12-31,2025-04-07,Paid Search,0
+1318,Basic,FR,2024-11-22,,Paid Search,1
+1319,Premium,FR,2024-10-18,,Social,1
+1320,Basic,FR,2025-04-20,,Organic,1
+1321,Standard,FR,2025-06-10,,Referral,1
+1322,Standard,FR,2025-02-24,2025-03-24,Referral,1
+1323,Premium,FR,2024-11-25,,Social,1
+1324,TrialOnly,FR,2025-01-18,,Social,0
+1325,Premium,CH,2025-06-08,,Paid Search,1
+1326,Basic,BE,2025-07-27,,Referral,1
+1327,Basic,FR,2025-07-02,,Referral,1
+1328,Premium,FR,2025-01-04,,Social,1
+1329,Basic,FR,2025-02-21,,Social,1
+1330,Standard,BE,2025-08-17,,Paid Search,1
+1331,Basic,BE,2025-05-10,2025-07-17,Referral,0
+1332,Premium,FR,2025-05-22,,Referral,1
+1333,Basic,FR,2025-08-10,,Referral,0
+1334,Basic,CH,2025-05-26,,Organic,1
+1335,TrialOnly,FR,2024-10-21,,Social,1
+1336,Basic,FR,2024-12-27,2025-04-27,Paid Search,1
+1337,Standard,BE,2025-06-11,,Organic,1
+1338,Standard,FR,2025-05-02,,Paid Search,1
+1339,TrialOnly,FR,2024-10-13,,Paid Search,1
+1340,Standard,CH,2025-08-21,,Referral,1
+1341,TrialOnly,BE,2025-06-30,,Organic,1
+1342,Basic,BE,2025-04-11,,Organic,0
+1343,Basic,CH,2024-10-26,2025-06-26,Paid Search,1
+1344,Standard,FR,2025-07-01,,Paid Search,1
+1345,Basic,CH,2025-04-21,,Paid Search,1
+1346,TrialOnly,FR,2024-09-29,,Referral,0
+1347,Standard,FR,2025-02-28,,Referral,1
+1348,TrialOnly,FR,2025-02-17,,Paid Search,1
+1349,Standard,FR,2025-05-22,,Organic,1
+1350,Standard,CH,2024-12-20,,Referral,1
+1351,TrialOnly,CH,2025-05-22,,Referral,1
+1352,Basic,FR,2025-06-15,,Social,0
+1353,Basic,FR,2025-07-17,,Referral,1
+1354,Standard,CH,2025-06-25,,Organic,1
+1355,TrialOnly,FR,2024-09-07,,Organic,1
+1356,Premium,FR,2025-05-19,,Organic,1
+1357,Standard,CH,2024-09-26,2025-07-03,Organic,1
+1358,Standard,CH,2024-11-22,,Referral,0
+1359,Premium,CH,2025-03-25,,Social,1
+1360,Basic,FR,2025-06-17,,Organic,1
+1361,TrialOnly,FR,2025-01-06,,Social,1
+1362,TrialOnly,FR,2024-09-16,,Referral,1
+1363,TrialOnly,BE,2025-04-18,,Paid Search,0
+1364,Basic,FR,2024-09-06,,Organic,1
+1365,TrialOnly,FR,2025-02-08,,Organic,1
+1366,TrialOnly,FR,2024-10-11,,Organic,1
+1367,Premium,BE,2025-02-15,,Organic,0
+1368,TrialOnly,BE,2025-07-18,,Social,1
+1369,Standard,CH,2025-02-23,,Social,0
+1370,Basic,CH,2025-02-13,,Referral,1
+1371,Premium,FR,2024-11-10,,Social,1
+1372,Basic,FR,2025-03-05,,Organic,1
+1373,TrialOnly,FR,2024-12-27,,Referral,1
+1374,TrialOnly,CH,2024-10-21,,Referral,1
+1375,Standard,BE,2024-10-19,,Paid Search,0
+1376,Premium,FR,2025-07-25,,Paid Search,1
+1377,Premium,FR,2024-10-31,,Referral,1
+1378,Standard,FR,2024-09-23,2024-12-30,Social,1
+1379,TrialOnly,BE,2025-08-19,,Referral,1
+1380,TrialOnly,CH,2024-10-26,,Social,1
+1381,Basic,FR,2025-07-03,2025-08-10,Organic,1
+1382,TrialOnly,FR,2025-03-20,,Referral,1
+1383,TrialOnly,FR,2025-08-14,,Organic,0
+1384,Standard,BE,2025-03-07,,Organic,1
+1385,Basic,CH,2024-11-14,,Social,1
+1386,Basic,CH,2024-09-15,,Organic,1
+1387,TrialOnly,FR,2025-05-28,,Referral,1
+1388,TrialOnly,BE,2025-06-12,,Organic,1
+1389,Basic,BE,2025-03-13,,Paid Search,1
+1390,Basic,BE,2025-03-28,,Organic,1
+1391,TrialOnly,FR,2024-12-19,,Paid Search,1
+1392,Standard,FR,2024-11-06,2025-01-13,Organic,1
+1393,Basic,FR,2025-08-27,,Referral,1
+1394,TrialOnly,CH,2025-03-30,,Referral,1
+1395,Basic,FR,2025-07-26,,Referral,1
+1396,Basic,BE,2025-05-03,2025-06-10,Paid Search,1
+1397,Premium,FR,2025-07-21,,Organic,0
+1398,Basic,CH,2024-09-06,2024-10-13,Organic,1
+1399,TrialOnly,CH,2024-10-26,,Paid Search,1
+1400,Basic,FR,2025-02-19,2025-07-26,Paid Search,1
+1401,Basic,CH,2024-10-25,,Referral,1
+1402,TrialOnly,CH,2025-05-30,,Social,0
+1403,Premium,BE,2024-12-07,,Referral,1
+1404,Basic,FR,2025-06-13,,Paid Search,1
+1405,TrialOnly,FR,2025-05-31,,Paid Search,1
+1406,Standard,FR,2025-02-22,,Paid Search,1
+1407,TrialOnly,FR,2025-02-26,,Paid Search,1
+1408,Standard,FR,2024-12-09,,Paid Search,0
+1409,TrialOnly,FR,2025-02-14,,Organic,1
+1410,Basic,FR,2024-11-09,,Social,0
+1411,Standard,FR,2025-03-08,,Social,1
+1412,Basic,FR,2025-05-25,,Social,1
+1413,Basic,BE,2024-09-26,2025-02-03,Organic,1
+1414,TrialOnly,BE,2024-11-12,,Paid Search,1
+1415,TrialOnly,CH,2025-07-11,,Referral,1
+1416,Standard,BE,2025-06-06,,Paid Search,1
+1417,Basic,FR,2025-06-06,,Referral,0
+1418,Standard,FR,2024-10-20,,Referral,1
+1419,TrialOnly,FR,2025-06-25,,Referral,0
+1420,TrialOnly,BE,2025-03-27,,Referral,1
+1421,TrialOnly,FR,2025-08-10,,Paid Search,1
+1422,Premium,FR,2025-05-26,,Referral,1
+1423,TrialOnly,FR,2025-02-04,,Paid Search,1
+1424,Standard,CH,2025-02-11,,Referral,1
+1425,Premium,CH,2025-07-04,,Paid Search,1
+1426,Basic,FR,2025-04-16,,Paid Search,1
+1427,TrialOnly,BE,2025-02-04,,Social,1
+1428,Standard,FR,2025-06-14,,Referral,1
+1429,Premium,CH,2025-07-14,,Social,0
+1430,Premium,FR,2025-08-09,,Social,1
+1431,Standard,FR,2024-11-28,2025-04-28,Organic,0
+1432,Standard,BE,2025-04-08,,Organic,1
+1433,Standard,BE,2024-09-13,,Social,1
+1434,TrialOnly,FR,2024-12-20,,Referral,1
+1435,TrialOnly,FR,2024-11-21,,Organic,0
+1436,TrialOnly,FR,2024-11-30,,Paid Search,1
+1437,Standard,FR,2025-01-10,,Social,1
+1438,Standard,BE,2025-05-28,,Referral,1
+1439,TrialOnly,FR,2025-01-09,,Referral,1
+1440,TrialOnly,FR,2025-02-22,,Social,1
+1441,Basic,CH,2025-06-29,,Social,1
+1442,Standard,FR,2025-04-03,,Paid Search,1
+1443,Basic,FR,2025-03-07,2025-04-14,Organic,0
+1444,Basic,BE,2024-11-01,2025-06-01,Social,1
+1445,TrialOnly,FR,2025-01-11,,Referral,0
+1446,TrialOnly,FR,2024-10-17,,Organic,0
+1447,Premium,FR,2024-10-30,2025-01-06,Social,0
+1448,TrialOnly,CH,2024-09-30,,Paid Search,1
+1449,TrialOnly,CH,2024-10-02,,Paid Search,1
+1450,TrialOnly,FR,2025-03-22,,Organic,1
+1451,Basic,FR,2025-01-01,,Referral,1
+1452,TrialOnly,FR,2025-01-22,,Social,1
+1453,TrialOnly,FR,2025-05-02,,Organic,1
+1454,TrialOnly,FR,2024-09-28,,Social,1
+1455,TrialOnly,FR,2025-04-29,,Organic,1
+1456,TrialOnly,FR,2025-02-10,,Social,1
+1457,Basic,FR,2024-12-26,,Social,1
+1458,TrialOnly,FR,2025-01-31,,Organic,1
+1459,Standard,FR,2025-08-11,,Organic,1
+1460,Premium,BE,2025-07-07,,Paid Search,0
+1461,TrialOnly,FR,2025-05-13,,Organic,1
+1462,Standard,FR,2025-04-05,,Social,1
+1463,Premium,BE,2025-07-09,,Social,0
+1464,TrialOnly,CH,2025-05-05,,Organic,1
+1465,TrialOnly,FR,2025-07-12,,Social,1
+1466,Standard,BE,2024-09-05,2024-12-05,Referral,1
+1467,Premium,FR,2025-06-14,,Referral,1
+1468,Standard,BE,2024-12-13,,Paid Search,1
+1469,Basic,BE,2024-10-20,2025-04-27,Referral,1
+1470,TrialOnly,FR,2025-01-12,,Organic,1
+1471,TrialOnly,FR,2025-08-20,,Social,1
+1472,TrialOnly,FR,2025-02-02,,Paid Search,1
+1473,Standard,FR,2025-01-03,,Referral,1
+1474,TrialOnly,FR,2024-09-10,,Organic,1
+1475,TrialOnly,CH,2025-04-23,,Referral,1
+1476,TrialOnly,FR,2024-12-28,,Referral,1
+1477,Basic,FR,2025-06-18,,Paid Search,1
+1478,TrialOnly,CH,2025-05-01,,Social,1
+1479,Basic,FR,2024-11-23,2025-04-23,Social,1
+1480,TrialOnly,FR,2024-11-25,,Organic,0
+1481,TrialOnly,BE,2024-11-20,,Organic,1
+1482,TrialOnly,FR,2025-06-23,,Paid Search,1
+1483,Basic,CH,2024-11-25,,Referral,1
+1484,TrialOnly,CH,2025-03-27,,Social,1
+1485,Standard,CH,2025-01-21,,Paid Search,1
+1486,TrialOnly,FR,2025-07-06,,Social,1
+1487,Standard,FR,2025-02-04,,Organic,1
+1488,Standard,FR,2025-04-20,,Social,1
+1489,Basic,BE,2024-11-07,,Organic,1
+1490,Standard,FR,2025-07-13,,Organic,1
+1491,Standard,FR,2024-09-04,2025-03-11,Social,1
+1492,Standard,FR,2024-10-05,,Referral,1
+1493,TrialOnly,CH,2024-09-07,,Paid Search,1
+1494,TrialOnly,FR,2025-05-01,,Social,1
+1495,Basic,BE,2024-11-22,,Organic,1
+1496,TrialOnly,CH,2025-03-25,,Paid Search,1
+1497,Standard,FR,2024-12-06,2025-02-06,Referral,1
+1498,Premium,BE,2025-04-05,,Organic,1
+1499,Basic,FR,2025-06-18,,Referral,1
+1500,TrialOnly,FR,2025-05-11,,Paid Search,1
+1501,Standard,FR,2025-05-21,,Paid Search,0
+1502,TrialOnly,CH,2025-03-18,,Organic,1
+1503,Premium,CH,2024-12-03,,Referral,1
+1504,Standard,CH,2024-12-03,,Paid Search,1
+1505,TrialOnly,CH,2025-04-29,,Referral,1
+1506,Basic,BE,2025-01-03,2025-08-03,Organic,1
+1507,Basic,FR,2024-11-11,2025-06-11,Paid Search,1
+1508,TrialOnly,CH,2025-02-02,,Organic,1
+1509,Premium,FR,2024-11-17,2025-02-24,Social,1
+1510,Basic,FR,2024-12-21,,Organic,0
+1511,Standard,FR,2025-08-16,,Referral,1
+1512,Basic,FR,2024-12-30,,Referral,1
+1513,Basic,BE,2025-04-12,,Referral,1
+1514,Standard,BE,2025-04-02,2025-06-02,Referral,0
+1515,Basic,FR,2025-02-05,,Organic,1
+1516,Standard,FR,2025-07-16,,Paid Search,1
+1517,TrialOnly,FR,2025-08-14,,Social,1
+1518,Standard,FR,2025-06-12,,Organic,1
+1519,Premium,CH,2025-05-17,,Paid Search,1
+1520,TrialOnly,FR,2025-04-14,,Paid Search,1
+1521,Standard,CH,2025-08-03,,Social,1
+1522,TrialOnly,FR,2025-07-12,,Referral,1
+1523,Premium,FR,2025-05-15,,Organic,1
+1524,TrialOnly,CH,2025-08-10,,Organic,1
+1525,Standard,BE,2025-05-08,,Referral,1
+1526,TrialOnly,FR,2025-01-05,,Social,1
+1527,Standard,BE,2025-08-16,,Referral,1
+1528,Basic,BE,2025-01-14,2025-02-14,Referral,1
+1529,TrialOnly,CH,2025-06-30,,Organic,1
+1530,Standard,BE,2024-12-15,,Paid Search,1
+1531,Premium,CH,2025-06-27,,Referral,1
+1532,Premium,BE,2025-02-25,,Referral,1
+1533,Standard,FR,2024-11-11,,Organic,0
+1534,TrialOnly,FR,2024-11-26,,Referral,1
+1535,Premium,FR,2025-01-19,,Referral,0
+1536,Premium,CH,2025-07-13,,Social,0
+1537,TrialOnly,BE,2024-11-30,,Organic,1
+1538,Basic,FR,2025-02-08,,Paid Search,1
+1539,TrialOnly,FR,2025-08-06,,Paid Search,1
+1540,Premium,BE,2024-11-15,2025-01-22,Paid Search,1
+1541,Premium,FR,2025-01-21,2025-03-28,Referral,1
+1542,Basic,CH,2025-06-30,,Social,1
+1543,TrialOnly,CH,2025-07-04,,Organic,1
+1544,TrialOnly,BE,2025-02-10,,Social,1
+1545,Standard,CH,2025-03-09,,Social,1
+1546,Standard,FR,2025-02-27,,Referral,1
+1547,Basic,BE,2024-09-15,2025-01-22,Social,1
+1548,Standard,FR,2024-10-02,2025-03-02,Paid Search,0
+1549,TrialOnly,FR,2025-02-11,,Referral,1
+1550,Basic,CH,2025-02-03,,Social,1
+1551,TrialOnly,FR,2024-09-20,,Referral,0
+1552,Standard,BE,2024-11-19,,Social,1
+1553,TrialOnly,FR,2024-09-01,,Referral,1
+1554,TrialOnly,CH,2024-11-21,,Organic,1
+1555,Standard,BE,2024-10-04,,Referral,1
+1556,Standard,FR,2025-03-23,,Social,1
+1557,Standard,FR,2025-05-19,,Referral,0
+1558,Standard,CH,2024-10-08,2024-11-08,Paid Search,1
+1559,TrialOnly,CH,2024-12-20,,Referral,1
+1560,TrialOnly,FR,2024-12-04,,Social,1
+1561,Basic,FR,2024-11-06,2025-01-06,Organic,1
+1562,TrialOnly,FR,2025-04-17,,Social,0
+1563,TrialOnly,BE,2025-07-15,,Paid Search,1
+1564,Standard,FR,2024-12-28,,Organic,1
+1565,TrialOnly,FR,2025-02-22,,Organic,1
+1566,Premium,BE,2025-07-06,,Referral,1
+1567,Basic,CH,2025-03-13,2025-05-20,Organic,0
+1568,TrialOnly,FR,2024-10-21,,Organic,1
+1569,Basic,BE,2024-10-12,,Organic,1
+1570,Standard,FR,2024-09-18,,Referral,0
+1571,TrialOnly,CH,2025-08-09,,Paid Search,1
+1572,TrialOnly,FR,2025-04-19,,Social,1
+1573,Premium,FR,2024-10-13,2025-04-20,Referral,1
+1574,Basic,FR,2025-04-22,,Paid Search,1
+1575,Premium,FR,2025-01-31,,Paid Search,1
+1576,TrialOnly,BE,2024-09-16,,Paid Search,1
+1577,Premium,FR,2025-01-11,2025-03-18,Social,1
+1578,Basic,FR,2025-05-31,,Referral,1
+1579,Basic,CH,2024-11-18,2025-01-25,Referral,1
+1580,Basic,FR,2025-08-11,,Referral,1
+1581,Basic,FR,2025-03-19,2025-05-26,Paid Search,1
+1582,Basic,FR,2025-03-25,2025-05-01,Organic,1
+1583,TrialOnly,FR,2025-01-30,,Paid Search,1
+1584,Premium,FR,2025-04-20,,Paid Search,1
+1585,Basic,FR,2024-10-18,2025-07-25,Organic,0
+1586,Basic,CH,2024-09-30,,Social,1
+1587,TrialOnly,FR,2025-03-18,,Referral,0
+1588,Premium,CH,2025-05-11,,Paid Search,1
+1589,TrialOnly,FR,2025-08-02,,Referral,1
+1590,Premium,CH,2025-03-17,,Organic,1
+1591,Basic,FR,2025-08-30,,Referral,1
+1592,TrialOnly,BE,2024-11-02,,Paid Search,1
+1593,TrialOnly,CH,2024-11-14,,Referral,1
+1594,Standard,FR,2024-12-28,2025-03-04,Paid Search,1
+1595,TrialOnly,FR,2025-03-12,,Organic,1
+1596,TrialOnly,FR,2025-08-22,,Social,1
+1597,Basic,BE,2025-08-06,,Paid Search,0
+1598,Standard,BE,2025-06-15,,Social,0
+1599,TrialOnly,CH,2024-10-29,,Referral,0
+1600,Premium,FR,2024-12-17,,Organic,1
+1601,Standard,FR,2025-07-02,2025-08-02,Social,1
+1602,Basic,BE,2024-12-01,2025-04-08,Paid Search,1
+1603,TrialOnly,FR,2025-02-01,,Social,1
+1604,Basic,FR,2025-06-26,,Social,1
+1605,TrialOnly,FR,2024-11-07,,Organic,1
+1606,Basic,CH,2025-05-26,,Social,1
+1607,Basic,FR,2025-02-13,2025-08-20,Social,1
+1608,TrialOnly,BE,2025-02-18,,Referral,1
+1609,TrialOnly,FR,2025-08-25,,Referral,1
+1610,TrialOnly,FR,2024-12-14,,Referral,0
+1611,Basic,FR,2025-06-24,,Social,1
+1612,Basic,CH,2025-08-30,,Paid Search,1
+1613,Basic,CH,2024-09-05,,Organic,1
+1614,TrialOnly,FR,2025-02-06,,Social,1
+1615,Basic,FR,2024-12-24,2025-05-31,Organic,1
+1616,Standard,CH,2024-11-20,2025-05-20,Referral,0
+1617,Standard,FR,2024-09-30,,Paid Search,1
+1618,Standard,FR,2025-05-23,2025-06-30,Paid Search,1
+1619,Basic,FR,2025-08-30,,Organic,1
+1620,TrialOnly,BE,2025-02-16,,Referral,1
+1621,Premium,CH,2025-08-05,,Referral,1
+1622,TrialOnly,CH,2024-12-16,,Referral,1
+1623,TrialOnly,CH,2025-04-21,,Referral,1
+1624,TrialOnly,FR,2025-06-28,,Paid Search,1
+1625,Standard,BE,2025-03-06,,Paid Search,1
+1626,Standard,BE,2025-01-13,2025-04-13,Social,1
+1627,Standard,FR,2025-04-17,,Referral,0
+1628,Standard,FR,2024-11-11,,Referral,1
+1629,TrialOnly,FR,2025-06-09,,Referral,0
+1630,TrialOnly,BE,2025-01-04,,Paid Search,1
+1631,Premium,FR,2025-08-15,,Referral,1
+1632,TrialOnly,FR,2025-07-23,,Paid Search,1
+1633,TrialOnly,CH,2024-11-07,,Referral,0
+1634,Standard,FR,2024-12-23,,Referral,1
+1635,TrialOnly,FR,2025-08-19,,Paid Search,0
+1636,TrialOnly,FR,2025-04-06,,Organic,1
+1637,TrialOnly,BE,2025-01-03,,Organic,1
+1638,TrialOnly,FR,2024-09-07,,Organic,1
+1639,Basic,FR,2025-04-03,,Social,1
+1640,TrialOnly,FR,2025-03-04,,Paid Search,1
+1641,Premium,CH,2024-12-02,2025-08-02,Paid Search,1
+1642,Basic,FR,2025-01-16,,Social,1
+1643,Basic,FR,2024-11-14,2024-12-21,Paid Search,1
+1644,Basic,FR,2025-01-21,,Paid Search,1
+1645,TrialOnly,FR,2024-12-03,,Referral,1
+1646,Basic,CH,2024-10-20,,Social,1
+1647,Basic,FR,2025-06-19,2025-08-19,Referral,1
+1648,TrialOnly,CH,2025-02-24,,Paid Search,0
+1649,Basic,FR,2025-06-05,,Paid Search,0
+1650,TrialOnly,FR,2025-08-20,,Social,1
+1651,TrialOnly,FR,2025-06-27,,Social,1
+1652,Standard,FR,2025-05-08,,Social,1
+1653,Basic,FR,2025-01-24,,Referral,1
+1654,Basic,BE,2024-09-25,2025-04-02,Organic,1
+1655,Basic,CH,2025-08-08,,Social,1
+1656,Basic,CH,2025-07-25,,Organic,0
+1657,TrialOnly,CH,2025-06-22,,Social,1
+1658,TrialOnly,FR,2025-06-16,,Organic,0
+1659,Standard,FR,2024-09-10,,Referral,1
+1660,Basic,FR,2025-04-19,2025-05-26,Paid Search,0
+1661,Basic,FR,2024-09-06,2024-11-13,Referral,1
+1662,Standard,FR,2025-02-13,,Referral,1
+1663,Standard,CH,2025-02-23,,Referral,1
+1664,Standard,BE,2025-07-21,,Organic,1
+1665,Premium,BE,2025-01-04,,Paid Search,1
+1666,Premium,BE,2025-05-19,2025-08-19,Organic,1
+1667,Standard,FR,2025-03-08,,Referral,1
+1668,Basic,BE,2025-05-15,,Social,0
+1669,Basic,FR,2025-07-04,,Organic,0
+1670,Standard,FR,2025-06-17,2025-07-24,Social,1
+1671,Standard,FR,2025-06-14,,Paid Search,0
+1672,Standard,FR,2025-06-04,,Social,1
+1673,Basic,CH,2024-09-27,,Organic,1
+1674,Standard,CH,2025-03-05,,Social,1
+1675,TrialOnly,CH,2024-09-03,,Referral,1
+1676,Standard,BE,2025-06-29,2025-07-29,Paid Search,1
+1677,Premium,FR,2024-09-02,2025-05-02,Organic,1
+1678,TrialOnly,CH,2024-11-23,,Paid Search,1
+1679,TrialOnly,FR,2024-10-24,,Referral,1
+1680,TrialOnly,FR,2025-05-11,,Organic,1
+1681,TrialOnly,FR,2025-02-22,,Social,1
+1682,Basic,CH,2025-07-20,,Referral,1
+1683,Basic,CH,2025-06-17,2025-07-24,Referral,1
+1684,Premium,CH,2024-12-22,2025-03-29,Social,1
+1685,TrialOnly,BE,2024-11-11,,Social,1
+1686,Premium,FR,2025-08-25,,Paid Search,1
+1687,Basic,FR,2024-11-08,2025-01-15,Referral,1
+1688,TrialOnly,FR,2025-04-23,,Referral,1
+1689,Premium,CH,2025-06-12,,Organic,1
+1690,TrialOnly,FR,2024-12-06,,Referral,0
+1691,Standard,CH,2025-04-27,2025-08-04,Social,0
+1692,Basic,FR,2025-07-26,,Organic,1
+1693,Standard,FR,2024-10-26,,Paid Search,1
+1694,TrialOnly,FR,2024-11-28,,Organic,1
+1695,TrialOnly,FR,2025-03-28,,Organic,1
+1696,Basic,FR,2024-11-30,2025-01-07,Organic,1
+1697,TrialOnly,FR,2025-05-02,,Social,0
+1698,TrialOnly,FR,2024-11-05,,Social,1
+1699,Standard,CH,2025-03-05,,Organic,1
+1700,Basic,FR,2025-01-16,,Organic,1
+1701,Standard,BE,2025-02-16,2025-03-23,Referral,1
+1702,Premium,FR,2024-09-05,2024-12-05,Organic,0
+1703,Standard,FR,2025-06-15,,Paid Search,1
+1704,Standard,CH,2025-03-10,,Organic,1
+1705,Standard,BE,2025-02-12,2025-07-19,Referral,1
+1706,Standard,FR,2024-12-06,,Social,1
+1707,Basic,FR,2025-08-28,,Organic,0
+1708,TrialOnly,BE,2025-04-22,,Organic,1
+1709,Standard,FR,2025-08-22,,Social,1
+1710,TrialOnly,BE,2025-06-23,,Social,1
+1711,TrialOnly,FR,2025-01-17,,Referral,1
+1712,Premium,FR,2025-01-31,,Paid Search,1
+1713,TrialOnly,FR,2025-02-15,,Referral,1
+1714,Standard,FR,2025-06-05,,Referral,0
+1715,Standard,BE,2025-01-20,,Social,1
+1716,Premium,FR,2025-07-26,,Referral,1
+1717,Premium,FR,2025-01-11,,Paid Search,1
+1718,Basic,FR,2025-02-28,,Social,0
+1719,TrialOnly,CH,2025-03-07,,Paid Search,1
+1720,Basic,CH,2025-06-21,,Social,1
+1721,TrialOnly,FR,2024-11-25,,Paid Search,1
+1722,Premium,FR,2025-06-14,,Referral,1
+1723,TrialOnly,FR,2025-05-12,,Referral,1
+1724,Premium,FR,2024-10-11,2024-11-18,Paid Search,0
+1725,Basic,FR,2024-12-01,,Paid Search,1
+1726,Standard,FR,2024-09-15,2024-11-22,Organic,1
+1727,Basic,FR,2025-06-25,,Referral,0
+1728,Premium,FR,2024-12-28,,Organic,0
+1729,Standard,FR,2025-03-11,,Social,1
+1730,TrialOnly,BE,2025-04-12,,Organic,1
+1731,Standard,FR,2024-11-27,,Organic,1
+1732,Basic,FR,2025-08-28,,Social,1
+1733,Basic,CH,2025-07-31,,Organic,1
+1734,Standard,BE,2025-03-17,2025-08-17,Social,1
+1735,Basic,FR,2024-12-04,,Paid Search,1
+1736,TrialOnly,BE,2025-03-11,,Social,1
+1737,Standard,CH,2025-04-04,2025-06-04,Paid Search,0
+1738,TrialOnly,FR,2024-09-29,,Paid Search,0
+1739,Standard,BE,2025-05-08,,Organic,1
+1740,TrialOnly,FR,2024-10-13,,Paid Search,0
+1741,Basic,BE,2025-07-07,,Organic,0
+1742,Premium,FR,2025-03-06,,Social,0
+1743,TrialOnly,FR,2025-03-15,,Organic,1
+1744,Standard,CH,2025-04-15,,Referral,1
+1745,Standard,CH,2025-02-12,2025-06-19,Social,1
+1746,Standard,FR,2024-09-07,2025-02-14,Referral,1
+1747,Basic,BE,2025-08-08,,Organic,0
+1748,Basic,BE,2025-01-01,2025-03-08,Social,1
+1749,TrialOnly,FR,2025-07-10,,Organic,0
+1750,Basic,FR,2024-12-06,,Social,1
+1751,TrialOnly,FR,2024-10-16,,Social,0
+1752,Standard,FR,2024-10-12,,Referral,1
+1753,TrialOnly,BE,2024-11-24,,Organic,0
+1754,Standard,FR,2025-02-25,,Organic,1
+1755,TrialOnly,CH,2025-02-02,,Social,0
+1756,Standard,FR,2025-03-02,,Social,1
+1757,TrialOnly,FR,2024-09-03,,Social,1
+1758,TrialOnly,FR,2025-04-15,,Social,1
+1759,TrialOnly,FR,2025-08-11,,Referral,1
+1760,TrialOnly,BE,2025-03-06,,Referral,1
+1761,Premium,FR,2025-02-16,,Referral,0
+1762,Basic,FR,2025-06-18,2025-07-25,Paid Search,1
+1763,Basic,FR,2024-11-21,,Referral,1
+1764,Basic,FR,2025-04-02,,Organic,1
+1765,TrialOnly,CH,2025-04-11,,Social,0
+1766,TrialOnly,FR,2025-03-27,,Social,1
+1767,TrialOnly,FR,2024-09-17,,Paid Search,1
+1768,Standard,BE,2025-02-21,,Paid Search,1
+1769,Basic,FR,2024-11-30,2025-07-30,Referral,1
+1770,Basic,CH,2025-08-27,,Referral,1
+1771,Basic,FR,2024-10-29,,Social,1
+1772,TrialOnly,FR,2025-03-01,,Social,1
+1773,Standard,FR,2025-04-16,,Social,1
+1774,Premium,BE,2024-09-16,2025-05-16,Paid Search,0
+1775,Standard,CH,2025-07-25,,Paid Search,1
+1776,Standard,FR,2025-04-24,,Paid Search,1
+1777,TrialOnly,CH,2025-02-05,,Organic,1
+1778,TrialOnly,FR,2025-07-22,,Social,1
+1779,Standard,FR,2024-11-02,,Organic,1
+1780,Standard,FR,2025-08-19,,Organic,0
+1781,Basic,FR,2025-03-23,,Paid Search,1
+1782,Standard,FR,2025-03-29,2025-05-29,Social,0
+1783,Basic,FR,2024-09-15,2025-04-22,Social,0
+1784,Basic,FR,2024-12-09,2025-04-09,Paid Search,1
+1785,Standard,FR,2025-07-14,,Paid Search,0
+1786,Basic,CH,2025-07-19,,Paid Search,1
+1787,Standard,FR,2025-06-13,,Referral,1
+1788,TrialOnly,BE,2024-12-27,,Referral,1
+1789,Premium,FR,2024-11-28,,Organic,0
+1790,Premium,FR,2025-01-20,,Social,1
+1791,Standard,FR,2025-05-17,,Referral,1
+1792,Standard,FR,2025-02-04,,Organic,0
+1793,Standard,CH,2025-07-23,,Paid Search,1
+1794,TrialOnly,BE,2024-11-15,,Social,1
+1795,Premium,FR,2025-01-18,2025-06-18,Social,1
+1796,Standard,FR,2024-11-14,2025-06-14,Referral,1
+1797,Basic,FR,2024-12-25,2025-02-01,Social,1
+1798,TrialOnly,FR,2024-11-13,,Social,1
+1799,Basic,FR,2024-11-18,2025-06-25,Referral,1
+1800,Premium,FR,2024-09-21,2025-03-21,Organic,1
+1801,Standard,CH,2025-05-10,,Referral,1
+1802,Standard,BE,2025-07-27,,Paid Search,1
+1803,Standard,FR,2025-01-02,,Social,0
+1804,Basic,FR,2025-08-21,,Social,1
+1805,Basic,CH,2024-11-01,,Paid Search,1
+1806,TrialOnly,FR,2025-06-01,,Organic,1
+1807,Standard,BE,2025-05-09,,Paid Search,0
+1808,Basic,FR,2025-06-19,2025-07-26,Organic,1
+1809,TrialOnly,FR,2025-06-14,,Paid Search,1
+1810,Basic,FR,2025-02-11,,Organic,1
+1811,TrialOnly,FR,2024-10-26,,Social,1
+1812,Premium,CH,2025-01-02,2025-03-02,Organic,1
+1813,Basic,FR,2024-11-22,2025-05-29,Paid Search,0
+1814,TrialOnly,FR,2025-07-26,,Social,1
+1815,TrialOnly,FR,2025-05-19,,Paid Search,1
+1816,Premium,BE,2025-05-17,,Referral,1
+1817,Basic,FR,2025-01-05,2025-02-12,Paid Search,1
+1818,TrialOnly,FR,2025-02-15,,Referral,1
+1819,TrialOnly,FR,2025-07-10,,Referral,1
+1820,Standard,CH,2025-02-14,,Social,1
+1821,Basic,BE,2025-08-31,,Referral,1
+1822,TrialOnly,FR,2025-08-09,,Referral,1
+1823,Basic,FR,2025-05-30,,Referral,1
+1824,TrialOnly,FR,2024-10-08,,Organic,1
+1825,Standard,CH,2025-08-28,,Organic,1
+1826,TrialOnly,CH,2025-05-20,,Organic,1
+1827,Standard,FR,2025-06-20,,Organic,1
+1828,TrialOnly,BE,2024-10-09,,Organic,1
+1829,Basic,FR,2025-01-24,,Organic,1
+1830,TrialOnly,CH,2025-03-02,,Referral,0
+1831,Basic,FR,2025-02-09,2025-04-16,Organic,0
+1832,TrialOnly,FR,2024-09-20,,Organic,0
+1833,TrialOnly,FR,2024-10-27,,Paid Search,1
+1834,TrialOnly,BE,2025-06-14,,Organic,1
+1835,Standard,FR,2024-10-17,,Referral,1
+1836,Basic,FR,2025-06-15,,Referral,1
+1837,Basic,FR,2024-09-14,2025-02-21,Referral,1
+1838,Standard,BE,2025-04-12,,Referral,1
+1839,Standard,FR,2025-05-30,,Paid Search,1
+1840,TrialOnly,FR,2024-10-23,,Paid Search,0
+1841,TrialOnly,FR,2024-10-22,,Social,0
+1842,TrialOnly,CH,2025-07-29,,Referral,1
+1843,TrialOnly,FR,2025-03-02,,Paid Search,1
+1844,Standard,FR,2025-01-15,,Organic,0
+1845,TrialOnly,FR,2025-06-01,,Paid Search,1
+1846,TrialOnly,CH,2024-11-02,,Organic,1
+1847,TrialOnly,FR,2025-03-17,,Paid Search,0
+1848,Premium,FR,2024-10-21,2025-03-21,Social,1
+1849,Standard,BE,2024-09-13,,Organic,1
+1850,Standard,CH,2025-04-26,,Organic,0
+1851,Basic,FR,2025-08-12,,Organic,1
+1852,TrialOnly,FR,2024-11-14,,Social,1
+1853,TrialOnly,FR,2025-02-21,,Organic,1
+1854,Basic,BE,2025-07-15,,Referral,1
+1855,TrialOnly,FR,2024-10-18,,Paid Search,1
+1856,Basic,FR,2025-07-18,,Social,1
+1857,Standard,CH,2025-03-13,,Paid Search,1
+1858,Standard,FR,2024-09-07,,Paid Search,1
+1859,TrialOnly,CH,2025-06-17,,Paid Search,0
+1860,Basic,BE,2024-10-14,,Paid Search,0
+1861,Basic,FR,2024-11-20,2025-01-27,Social,1
+1862,TrialOnly,FR,2024-10-27,,Organic,0
+1863,Standard,FR,2025-07-13,,Paid Search,1
+1864,TrialOnly,FR,2025-03-11,,Organic,1
+1865,Basic,BE,2024-10-26,2025-01-02,Paid Search,1
+1866,Premium,BE,2025-03-28,,Paid Search,1
+1867,TrialOnly,FR,2025-03-16,,Paid Search,1
+1868,TrialOnly,BE,2025-04-09,,Organic,0
+1869,Basic,CH,2025-08-08,,Social,1
+1870,Basic,CH,2025-03-01,,Referral,1
+1871,Standard,FR,2025-08-29,,Referral,1
+1872,Basic,CH,2024-10-20,2025-02-27,Social,1
+1873,Standard,FR,2025-08-29,,Paid Search,1
+1874,TrialOnly,FR,2024-10-04,,Social,1
+1875,TrialOnly,FR,2025-01-27,,Social,0
+1876,Basic,BE,2024-11-03,2025-01-03,Social,1
+1877,TrialOnly,FR,2025-05-15,,Referral,0
+1878,TrialOnly,FR,2025-07-02,,Referral,0
+1879,Standard,FR,2025-05-16,,Social,1
+1880,Basic,BE,2025-03-04,,Referral,1
+1881,Standard,FR,2024-09-19,2025-06-19,Social,1
+1882,Premium,BE,2025-01-21,2025-06-28,Referral,1
+1883,TrialOnly,CH,2024-09-13,,Organic,1
+1884,TrialOnly,CH,2024-10-01,,Referral,1
+1885,TrialOnly,FR,2025-02-27,,Referral,1
+1886,TrialOnly,FR,2025-04-20,,Social,1
+1887,Premium,BE,2025-05-31,,Organic,1
+1888,Basic,FR,2025-05-07,,Referral,1
+1889,TrialOnly,BE,2025-08-16,,Social,0
+1890,Standard,FR,2025-01-06,,Paid Search,1
+1891,Standard,FR,2024-10-03,,Organic,1
+1892,Premium,FR,2025-04-21,2025-05-21,Social,1
+1893,TrialOnly,CH,2025-04-07,,Paid Search,1
+1894,Standard,FR,2025-02-16,2025-04-16,Paid Search,1
+1895,Standard,FR,2024-10-18,,Organic,1
+1896,Standard,FR,2025-07-31,,Paid Search,1
+1897,Standard,FR,2024-11-16,2025-06-23,Social,0
+1898,Standard,FR,2025-01-19,,Referral,1
+1899,Premium,FR,2025-03-21,,Social,1
+1900,Premium,BE,2025-02-19,2025-06-19,Social,1
+1901,Standard,FR,2025-02-07,,Social,1
+1902,Basic,BE,2024-09-23,2025-07-30,Organic,1
+1903,Premium,FR,2025-05-08,,Referral,1
+1904,Standard,FR,2024-09-06,2025-04-06,Paid Search,1
+1905,Standard,FR,2024-11-29,2025-03-06,Organic,1
+1906,Standard,FR,2025-06-24,,Paid Search,1
+1907,Premium,CH,2024-10-11,2025-03-18,Paid Search,1
+1908,TrialOnly,FR,2025-04-05,,Paid Search,1
+1909,Basic,CH,2025-07-04,,Paid Search,1
+1910,Standard,FR,2025-04-12,2025-07-12,Referral,1
+1911,Basic,CH,2025-03-24,,Organic,0
+1912,TrialOnly,FR,2024-09-26,,Social,1
+1913,Premium,FR,2025-07-11,,Referral,1
+1914,TrialOnly,FR,2025-06-04,,Social,1
+1915,Standard,BE,2025-07-18,,Organic,1
+1916,Basic,FR,2024-12-26,2025-06-02,Referral,1
+1917,Standard,FR,2025-04-21,2025-06-28,Organic,1
+1918,Basic,CH,2024-09-08,2024-10-15,Referral,1
+1919,TrialOnly,FR,2025-03-22,,Organic,1
+1920,Basic,FR,2025-04-17,,Referral,0
+1921,Standard,FR,2025-02-23,,Referral,1
+1922,Standard,CH,2024-09-01,2025-01-08,Paid Search,1
+1923,Standard,FR,2025-06-13,,Paid Search,1
+1924,Basic,CH,2025-06-12,2025-08-19,Paid Search,0
+1925,Standard,FR,2025-01-13,2025-07-20,Social,1
+1926,Basic,FR,2025-08-06,,Organic,1
+1927,Basic,BE,2025-05-06,,Social,0
+1928,Basic,BE,2025-08-13,,Referral,0
+1929,Basic,FR,2024-09-28,,Paid Search,1
+1930,Standard,FR,2025-07-01,,Referral,0
+1931,Basic,CH,2025-06-30,,Social,0
+1932,TrialOnly,FR,2024-10-29,,Referral,1
+1933,Standard,FR,2024-10-21,2025-01-28,Paid Search,1
+1934,Standard,CH,2024-09-05,,Social,1
+1935,Standard,CH,2024-11-18,2025-01-18,Organic,1
+1936,Premium,BE,2025-03-07,,Referral,1
+1937,TrialOnly,FR,2024-09-06,,Referral,1
+1938,Basic,FR,2025-04-06,,Social,1
+1939,Premium,CH,2025-07-24,,Social,1
+1940,Premium,FR,2025-05-15,,Referral,1
+1941,TrialOnly,FR,2025-06-12,,Referral,1
+1942,Basic,FR,2025-06-11,,Organic,1
+1943,Basic,FR,2025-06-07,2025-08-07,Social,1
+1944,TrialOnly,FR,2024-12-21,,Organic,1
+1945,Standard,FR,2025-06-03,,Referral,1
+1946,Basic,BE,2024-12-14,,Social,1
+1947,TrialOnly,BE,2025-02-02,,Paid Search,1
+1948,Standard,FR,2024-11-20,2025-01-27,Paid Search,1
+1949,Basic,FR,2024-10-14,2024-12-21,Paid Search,0
+1950,TrialOnly,CH,2025-07-26,,Social,1
+1951,TrialOnly,FR,2025-03-08,,Paid Search,1
+1952,Basic,FR,2025-05-15,,Referral,0
+1953,TrialOnly,FR,2025-01-04,,Social,1
+1954,TrialOnly,CH,2024-09-20,,Social,1
+1955,Standard,CH,2025-02-13,,Paid Search,1
+1956,Basic,FR,2025-06-12,,Referral,0
+1957,Standard,FR,2025-06-25,,Social,1
+1958,Premium,FR,2025-03-22,2025-05-22,Paid Search,1
+1959,Basic,CH,2025-03-25,,Organic,1
+1960,Standard,BE,2025-03-23,,Paid Search,1
+1961,TrialOnly,FR,2025-06-02,,Referral,1
+1962,Basic,BE,2025-06-20,,Paid Search,1
+1963,Basic,CH,2025-04-27,,Social,1
+1964,Standard,FR,2025-08-15,,Referral,1
+1965,Standard,CH,2025-07-09,2025-08-16,Referral,1
+1966,TrialOnly,CH,2025-04-13,,Paid Search,0
+1967,TrialOnly,FR,2025-08-14,,Referral,1
+1968,TrialOnly,CH,2024-09-27,,Paid Search,1
+1969,TrialOnly,BE,2025-05-29,,Referral,1
+1970,Premium,FR,2024-11-18,2024-12-18,Paid Search,0
+1971,TrialOnly,FR,2024-09-28,,Social,0
+1972,Standard,BE,2025-03-08,,Referral,1
+1973,TrialOnly,FR,2025-06-01,,Paid Search,1
+1974,Basic,FR,2024-09-25,,Social,0
+1975,Standard,FR,2024-09-02,2025-01-02,Referral,1
+1976,Basic,BE,2025-03-12,,Referral,0
+1977,TrialOnly,FR,2025-08-03,,Paid Search,1
+1978,TrialOnly,CH,2025-07-11,,Social,0
+1979,Basic,FR,2025-08-14,,Social,1
+1980,Standard,FR,2025-07-29,,Referral,1
+1981,Premium,BE,2025-07-17,,Social,1
+1982,TrialOnly,FR,2025-08-17,,Social,1
+1983,Basic,FR,2025-05-30,,Paid Search,1
+1984,Standard,BE,2024-10-17,,Referral,1
+1985,Standard,CH,2025-08-29,,Paid Search,1
+1986,TrialOnly,FR,2025-06-10,,Referral,0
+1987,TrialOnly,CH,2025-04-17,,Referral,1
+1988,Standard,CH,2025-02-13,,Social,1
+1989,Standard,BE,2024-11-03,2024-12-03,Paid Search,1
+1990,TrialOnly,BE,2025-07-24,,Referral,1
+1991,TrialOnly,FR,2025-08-14,,Referral,1
+1992,TrialOnly,CH,2025-05-10,,Social,1
+1993,TrialOnly,FR,2025-07-18,,Organic,1
+1994,TrialOnly,FR,2024-11-14,,Organic,1
+1995,Basic,FR,2024-10-16,,Paid Search,1
+1996,TrialOnly,FR,2025-02-16,,Social,1
+1997,Basic,BE,2025-04-01,,Social,1
+1998,Premium,FR,2025-05-11,2025-08-18,Paid Search,1
+1999,Basic,CH,2025-02-11,,Social,0
+2000,TrialOnly,BE,2025-02-01,,Social,1
